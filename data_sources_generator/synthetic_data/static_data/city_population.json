@@ -1,0 +1,27 @@
+{
+    "Madrid": {
+        "population": {
+            "Centro": 139687,
+            "Arganzuela": 153304,
+            "Retiro": 117918,
+            "Salamanca": 145702,
+            "Chamartín": 144796,
+            "Tetuán": 160002,
+            "Chamberí": 138204,
+            "Fuencarral - El Pardo": 248443,
+            "Moncloa - Aravaca": 121757,
+            "Latina": 241672,
+            "Carabanchel": 262339,
+            "Usera": 142746,
+            "Puente de Vallecas": 241603,
+            "Moratalaz": 92814,
+            "Ciudad Lineal": 220345,
+            "Hortaleza": 198391,
+            "Villaverde": 159038,
+            "Villa de Vallecas": 117501,
+            "Vicálvaro": 83804,
+            "San Blas - Canillejas": 161219,
+            "Barajas": 48646
+        }
+    }
+}
