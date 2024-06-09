@@ -55,7 +55,17 @@ Schema:
 }
 ```
 
+# TODO
 
+> set of tasks to complete the implementation of the microservice
+
+1. Stream implementation
+    1.1 Producer
+    1.2 Consumer
+
+2. Migration to a python code
+
+3. 
 
 # To be Considered
 
