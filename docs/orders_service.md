@@ -55,6 +55,60 @@ Schema:
 }
 ```
 
+### Orders Stream
+
+
+```
+{
+    'eventId': 'ev-b2543515-c6f2-45f2-8853-a090f83ea6ca', 
+    'eventType': 'ORDER_CREATED', 
+    'eventTimestamp': '2024-06-10 16:08:24', 
+    'orderId': 'ord-8cb158b4-2aed-4e4f-b600-929a0ed63d1c', 
+    'orderDetails': {
+        'customerId': 'cus-fd8690ab-598b-4c38-901a-ab66775f93c5', 
+        'orderDate': '2024-06-10 16:07:32', 
+        'items': [
+            {
+                'itemId': '111e2222-e33b-44d3-a456-426614174333', 
+                'productName': 'armario', 
+                'quantity': 1, 
+                'price': 699.99, 
+                'weight': 23.5
+            }, 
+            {
+                'itemId': '222e3333-e44b-55d3-a456-426614174444', 
+                'productName': 'silla', 
+                'quantity': 2, 
+                'price': 49.99, 
+                'weight': 15.6
+            }
+        ], 
+        'totalAmount': 799.97, 
+        'totalWeight': 54.7, 
+        'status': 'PENDING', 
+        'destinationAddress': {
+            'address_id': 'cus-bb86c5df-937a-468d-947f-73f3080b4bad', 
+            'neighborhood': 'Carabanchel', 
+            'coordinates': [40.38355845858851, -3.732050010120695], 
+            'road': 'Calle del Avefría', 
+            'house_number': '38', 
+            'suburb': 'Carabanchel', 
+            'city_district': '', 
+            'state': 'Comunidad de Madrid', 
+            'postcode': '28025', 
+            'country': 'España', 
+            'lat': 40.38357925415039, 
+            'lon': -3.7320752143859863
+        }, 
+        'paymentDetails': {
+            'paymentMethod': '', 
+            'paymentStatus': '', 
+            'transactionId': ''
+        }
+    }
+}
+```
+
 # TODO
 
 > set of tasks to complete the implementation of the microservice
@@ -81,3 +135,7 @@ Schema:
 |  |  |  |  | 
 |  |  |  |  | 
 |  |  |  |  | 
+
+
+* https://quix.io/blog/kafka-kinesis-comparison
+* https://www.softkraft.co/aws-kinesis-vs-kafka-comparison/
