@@ -1,0 +1,6662 @@
+[
+    {
+        "client_id": 298104694689,
+        "location": {
+            "address": "Bypass Sur",
+            "lat": 40.390130799999994,
+            "lon": -3.683518876417766
+        },
+        "order_id": "498b821e-a8c1-4876-8ecb-05912791d902",
+        "order": {
+            "n_objects": 5,
+            "volume": 80.57954913557874,
+            "weight": 16.296355287733935
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 484625614518,
+        "location": {
+            "address": "Calle de Embajadores188",
+            "lat": 40.39298055,
+            "lon": -3.6942722908057015
+        },
+        "order_id": "d923d690-e053-41e8-bfe4-910130a40551",
+        "order": {
+            "n_objects": 5,
+            "volume": 82.48537005761371,
+            "weight": 36.182779538246386
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 355616727318,
+        "location": {
+            "address": "Calle de Antonio Nebrija",
+            "lat": 40.4036985,
+            "lon": -3.6849444948672136
+        },
+        "order_id": "4d09161b-105e-4e92-986b-389ebeb80809",
+        "order": {
+            "n_objects": 5,
+            "volume": 75.92556797251312,
+            "weight": 25.753072795869077
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 876397742009,
+        "location": {
+            "address": "Calle de Melilla10",
+            "lat": 40.400836600000005,
+            "lon": -3.7106502814163633
+        },
+        "order_id": "09539914-9a18-4e5b-abb3-df2f32b966ea",
+        "order": {
+            "n_objects": 8,
+            "volume": 53.80248945710991,
+            "weight": 41.566068398937844
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 461926413761,
+        "location": {
+            "address": "Carril bici Pasillo Verde",
+            "lat": 40.400978993335784,
+            "lon": -3.695500077598562
+        },
+        "order_id": "e6715ebd-4ea8-402a-98a9-0fad876243b1",
+        "order": {
+            "n_objects": 4,
+            "volume": 19.057448953218987,
+            "weight": 47.65116816305528
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 298777804960,
+        "location": {
+            "address": "Paseo de las Delicias61",
+            "lat": 40.39793565,
+            "lon": -3.688786438412275
+        },
+        "order_id": "d47782c0-34bb-4f72-83eb-3dec1a76f168",
+        "order": {
+            "n_objects": 3,
+            "volume": 45.5566927318485,
+            "weight": 43.83927811149711
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 627148229414,
+        "location": {
+            "address": "Presa 8",
+            "lat": 40.3960095,
+            "lon": -3.706803394237
+        },
+        "order_id": "711d2b39-ae43-4250-b7b9-60288120cf96",
+        "order": {
+            "n_objects": 4,
+            "volume": 44.511720755473384,
+            "weight": 10.351400456489865
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 132675576665,
+        "location": {
+            "address": "Calle de Tom\u00e1s Bret\u00f3n62",
+            "lat": 40.3949845,
+            "lon": -3.6901966402759863
+        },
+        "order_id": "2ac104e9-9ac8-4ffb-8a20-04014f5d1307",
+        "order": {
+            "n_objects": 9,
+            "volume": 48.23963169701495,
+            "weight": 18.32416495932149
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 949874065567,
+        "location": {
+            "address": "Calle de Tom\u00e1s Bret\u00f3n62",
+            "lat": 40.3949845,
+            "lon": -3.6901966402759863
+        },
+        "order_id": "e896f000-db3f-4d31-8cfb-2feacf27973a",
+        "order": {
+            "n_objects": 3,
+            "volume": 97.59923791686424,
+            "weight": 9.939596647335941
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 199493073952,
+        "location": {
+            "address": "Calle de Juli\u00e1n Rabanedo",
+            "lat": 40.387556,
+            "lon": -3.6938867
+        },
+        "order_id": "a0288b34-c650-4c89-ab59-6f78c8dca29b",
+        "order": {
+            "n_objects": 8,
+            "volume": 98.59935333235958,
+            "weight": 5.202281139508653
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 145555503354,
+        "location": {
+            "address": "Calle Puerto Serrano14",
+            "lat": 40.3857051,
+            "lon": -3.6874803
+        },
+        "order_id": "88009d5e-3b6b-4efd-96da-d8402125843f",
+        "order": {
+            "n_objects": 1,
+            "volume": 61.221208136599756,
+            "weight": 45.668096022109125
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 105427920118,
+        "location": {
+            "address": "Calle de Segovia51",
+            "lat": 40.41352745,
+            "lon": -3.718093378289847
+        },
+        "order_id": "9b1f82e3-ff85-4b36-9355-83cd32081c2d",
+        "order": {
+            "n_objects": 2,
+            "volume": 35.43363398019999,
+            "weight": 48.47440127546334
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 392210344526,
+        "location": {
+            "address": "Bypass Sur",
+            "lat": 40.38950165,
+            "lon": -3.6929996024312257
+        },
+        "order_id": "835e0088-fbef-4aa7-bad5-6d9ee6ad8597",
+        "order": {
+            "n_objects": 9,
+            "volume": 37.3266024768472,
+            "weight": 18.864194606057275
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 797364171251,
+        "location": {
+            "address": "Glorieta de las Pir\u00e1mides",
+            "lat": 40.40099938281955,
+            "lon": -3.7141272405478754
+        },
+        "order_id": "1e8b4dd5-0152-4abb-904a-e256d829c1c0",
+        "order": {
+            "n_objects": 3,
+            "volume": 72.70447470758242,
+            "weight": 36.63807937687784
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 955628528686,
+        "location": {
+            "address": "Bypass Sur",
+            "lat": 40.38944553894801,
+            "lon": -3.683453045243139
+        },
+        "order_id": "d802df77-47dd-4a6f-9fc7-2d7b1ed35246",
+        "order": {
+            "n_objects": 5,
+            "volume": 39.15420638586613,
+            "weight": 41.808567307562434
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 92651284828,
+        "location": {
+            "address": "Calle de Melilla10",
+            "lat": 40.400836600000005,
+            "lon": -3.7106502814163633
+        },
+        "order_id": "19bb56b3-e3e5-4d58-9ff1-e60606a5f2d9",
+        "order": {
+            "n_objects": 7,
+            "volume": 88.44956353856708,
+            "weight": 49.227982658029525
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 746520122082,
+        "location": {
+            "address": "Calle de Toledo135",
+            "lat": 40.40531195,
+            "lon": -3.7118180467185455
+        },
+        "order_id": "d5775b33-2a4a-4ee5-850c-2a6807a65b3e",
+        "order": {
+            "n_objects": 1,
+            "volume": 39.56657486476105,
+            "weight": 42.61479113264577
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 69553222468,
+        "location": {
+            "address": "Bypass Sur",
+            "lat": 40.390130799999994,
+            "lon": -3.683518876417766
+        },
+        "order_id": "cad0c8b5-91f1-4908-a4e0-e17812ca06aa",
+        "order": {
+            "n_objects": 4,
+            "volume": 85.05141399944411,
+            "weight": 24.850289094210417
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 592793629666,
+        "location": {
+            "address": "Calle de Embajadores176",
+            "lat": 40.39485535,
+            "lon": -3.6954475554378527
+        },
+        "order_id": "3b78deef-93a4-43fd-903d-d7ee72eef57e",
+        "order": {
+            "n_objects": 9,
+            "volume": 36.65204477819026,
+            "weight": 29.713198139497525
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 418760940962,
+        "location": {
+            "address": "Calle de M\u00e9ndez \u00c1lvaro24",
+            "lat": 40.40243875,
+            "lon": -3.688283763722286
+        },
+        "order_id": "d5970444-bd8b-4f88-9238-1327685f8478",
+        "order": {
+            "n_objects": 7,
+            "volume": 6.303622787154037,
+            "weight": 48.74491109401247
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 71856200390,
+        "location": {
+            "address": "Calle del General Lacy34",
+            "lat": 40.40219105,
+            "lon": -3.691290713136456
+        },
+        "order_id": "19915007-cb9a-48a0-a71f-33bf74907113",
+        "order": {
+            "n_objects": 7,
+            "volume": 61.64945123801669,
+            "weight": 22.783897370289612
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 526397244574,
+        "location": {
+            "address": "Calle de M\u00e9ndez \u00c1lvaro",
+            "lat": 40.402280461414065,
+            "lon": -3.687594915463328
+        },
+        "order_id": "cf3ca165-25e7-4e51-ba42-f0d7703f9d49",
+        "order": {
+            "n_objects": 9,
+            "volume": 34.43472295607383,
+            "weight": 3.1639352416714024
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 408342810274,
+        "location": {
+            "address": NaN,
+            "lat": 40.4018522,
+            "lon": -3.719006980493308
+        },
+        "order_id": "5ff71c4f-aad6-44ce-bbe3-555ed26a01b1",
+        "order": {
+            "n_objects": 6,
+            "volume": 67.10353209274119,
+            "weight": 13.58146485070105
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 754465026754,
+        "location": {
+            "address": "Calle del General Lacy11",
+            "lat": 40.403081400000005,
+            "lon": -3.690521234379166
+        },
+        "order_id": "8c3b4956-e216-4a35-8aea-86398d2551fa",
+        "order": {
+            "n_objects": 9,
+            "volume": 3.8625928793478286,
+            "weight": 25.15024240453992
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 258921328129,
+        "location": {
+            "address": "Calle de Casimiro Mahou Bierhans",
+            "lat": 40.402591363173656,
+            "lon": -3.7169347320604462
+        },
+        "order_id": "6630397f-b770-4f67-96b8-ac1a4871f5b8",
+        "order": {
+            "n_objects": 1,
+            "volume": 17.165748067022943,
+            "weight": 41.05710587724732
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 389907532860,
+        "location": {
+            "address": "Madrid R\u00edo",
+            "lat": 40.40816266391561,
+            "lon": -3.722158379681513
+        },
+        "order_id": "25cd0fe5-213a-4eed-9a2a-1fd1502248ee",
+        "order": {
+            "n_objects": 4,
+            "volume": 15.323511294082104,
+            "weight": 21.37071275228851
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 815832737225,
+        "location": {
+            "address": "Paseo de Santa Mar\u00eda de la Cabeza",
+            "lat": 40.40175654851821,
+            "lon": -3.6985318248077896
+        },
+        "order_id": "11d41ca2-5be1-4119-9564-f8d159d47273",
+        "order": {
+            "n_objects": 5,
+            "volume": 85.08757069180506,
+            "weight": 29.702378181614094
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 686043288449,
+        "location": {
+            "address": "Calle de Isidoro \u00c1lvarez \u00c1lvarez",
+            "lat": 40.39408425,
+            "lon": -3.691189391643928
+        },
+        "order_id": "d7d990da-3e68-4089-b391-85e5ec79beae",
+        "order": {
+            "n_objects": 2,
+            "volume": 30.08085000001016,
+            "weight": 4.244828476110878
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 316841564169,
+        "location": {
+            "address": "Calle \u00d3scar",
+            "lat": 40.45278219577113,
+            "lon": -3.5601799635057683
+        },
+        "order_id": "ebcfab1e-2e03-4f82-b6df-a9e4df101e59",
+        "order": {
+            "n_objects": 9,
+            "volume": 14.747218235079096,
+            "weight": 33.02737061743881
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 489965466706,
+        "location": {
+            "address": "M-12",
+            "lat": 40.4768602,
+            "lon": -3.610084626491946
+        },
+        "order_id": "57488274-8a77-488c-8ed3-444bded32f8e",
+        "order": {
+            "n_objects": 2,
+            "volume": 78.00922004086759,
+            "weight": 9.949566107105552
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 644040014959,
+        "location": {
+            "address": NaN,
+            "lat": 40.48194657688282,
+            "lon": -3.565139606496054
+        },
+        "order_id": "6e20f429-a524-495e-b947-ffd2657d3a85",
+        "order": {
+            "n_objects": 4,
+            "volume": 8.066070981450183,
+            "weight": 10.08919351295604
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 215103557462,
+        "location": {
+            "address": NaN,
+            "lat": 40.4801478,
+            "lon": -3.5460941
+        },
+        "order_id": "b7a28fa6-c3fb-45f0-a064-7fa021314f16",
+        "order": {
+            "n_objects": 7,
+            "volume": 90.78921954147616,
+            "weight": 22.23555245688861
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 107797887043,
+        "location": {
+            "address": "Calle de Arnedo",
+            "lat": 40.380250450000005,
+            "lon": -3.738146335109655
+        },
+        "order_id": "201cd4a7-fc15-4fd1-bb2d-e488ae5cb42d",
+        "order": {
+            "n_objects": 7,
+            "volume": 36.73967887018449,
+            "weight": 30.433365546373807
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 278155529523,
+        "location": {
+            "address": "Calle del General Ricardos203",
+            "lat": 40.38188485,
+            "lon": -3.7438857981177898
+        },
+        "order_id": "b7e136e2-5b99-47f7-ad35-23d1964ada7e",
+        "order": {
+            "n_objects": 4,
+            "volume": 72.19456587504855,
+            "weight": 42.38242029220262
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 588278382439,
+        "location": {
+            "address": "Calle de Antonia Rodr\u00edguez Sacrist\u00e1n6",
+            "lat": 40.372295300000005,
+            "lon": -3.7464031540857783
+        },
+        "order_id": "dba77d88-018a-48ac-a655-6e454f82dcfc",
+        "order": {
+            "n_objects": 3,
+            "volume": 88.48951058552878,
+            "weight": 15.516245607343256
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 625162332513,
+        "location": {
+            "address": "Paseo de la Ermita del Santo",
+            "lat": 40.39907315307323,
+            "lon": -3.7291001908189063
+        },
+        "order_id": "e4556fbc-5f1d-4bb8-b53f-8bed888d4db5",
+        "order": {
+            "n_objects": 7,
+            "volume": 23.457967456072367,
+            "weight": 5.812316121582345
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 317372494473,
+        "location": {
+            "address": "M-40",
+            "lat": 40.36465425230135,
+            "lon": -3.724370328814477
+        },
+        "order_id": "5305138f-473b-4238-b608-4dc7fe94714a",
+        "order": {
+            "n_objects": 9,
+            "volume": 91.20495655309989,
+            "weight": 41.22056128200991
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 847244519955,
+        "location": {
+            "address": "Calle de Valent\u00edn Llaguno",
+            "lat": 40.39034878998676,
+            "lon": -3.730139351403133
+        },
+        "order_id": "725c9e2f-31b9-4dc4-986c-d6657520f16b",
+        "order": {
+            "n_objects": 7,
+            "volume": 85.88937910559973,
+            "weight": 49.97149268677084
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 577833501030,
+        "location": {
+            "address": "M-40",
+            "lat": 40.36407020298068,
+            "lon": -3.727979678497669
+        },
+        "order_id": "fa893ef6-e109-46b1-81d7-d6979d596c5a",
+        "order": {
+            "n_objects": 4,
+            "volume": 72.7632564831246,
+            "weight": 27.65736899877354
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 883141185469,
+        "location": {
+            "address": "Carretera de Legan\u00e9s",
+            "lat": 40.36363884552834,
+            "lon": -3.7435624130104546
+        },
+        "order_id": "6a81ee9f-ad7b-4621-9fd7-aabfdf1c2154",
+        "order": {
+            "n_objects": 3,
+            "volume": 50.52011457491401,
+            "weight": 7.137273629706628
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 23627335861,
+        "location": {
+            "address": "Calle Halconero del Rey",
+            "lat": 40.3701416,
+            "lon": -3.7245334
+        },
+        "order_id": "f416f630-32a7-4118-a5d9-2e80d0dbabeb",
+        "order": {
+            "n_objects": 6,
+            "volume": 4.848376374509262,
+            "weight": 49.53645743864385
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 728595389305,
+        "location": {
+            "address": "Calle Halconero del Rey",
+            "lat": 40.3671557,
+            "lon": -3.7308735
+        },
+        "order_id": "bb9aeeac-3c8c-4bf0-9e44-cb1a7e62b626",
+        "order": {
+            "n_objects": 6,
+            "volume": 64.90369163892694,
+            "weight": 20.309153068544216
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 500235209373,
+        "location": {
+            "address": "Calle de los Morales",
+            "lat": 40.360572399999995,
+            "lon": -3.7555297401826513
+        },
+        "order_id": "c70b58b2-cd03-4983-a1bb-959b156b9667",
+        "order": {
+            "n_objects": 7,
+            "volume": 67.65227889592408,
+            "weight": 1.3403522258330933
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 303002161512,
+        "location": {
+            "address": "Calle de la Laguna56",
+            "lat": 40.3886758,
+            "lon": -3.742146592311878
+        },
+        "order_id": "c198e44f-2410-42cb-b0ae-a2c42e65a672",
+        "order": {
+            "n_objects": 6,
+            "volume": 51.68575524099882,
+            "weight": 26.71214361940438
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 529042189022,
+        "location": {
+            "address": "Avenida de la Peseta112",
+            "lat": 40.3626515,
+            "lon": -3.746226894226215
+        },
+        "order_id": "72bfc70b-e251-4302-82b9-010d25bf5022",
+        "order": {
+            "n_objects": 1,
+            "volume": 54.800284262129374,
+            "weight": 23.00170108394694
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 219408523330,
+        "location": {
+            "address": "Calle Halconero del Rey",
+            "lat": 40.37078265453821,
+            "lon": -3.736047524976584
+        },
+        "order_id": "14fe7b19-8873-4a4a-87fe-183a531a3ef4",
+        "order": {
+            "n_objects": 6,
+            "volume": 87.06984052321025,
+            "weight": 11.394506521413627
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 958299286696,
+        "location": {
+            "address": "Calle de Polvoranca",
+            "lat": 40.37036815,
+            "lon": -3.75640995263187
+        },
+        "order_id": "b81c9276-5207-4b1e-b68a-a100cb837c2f",
+        "order": {
+            "n_objects": 5,
+            "volume": 4.517726720446841,
+            "weight": 5.527621676062924
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 652374238064,
+        "location": {
+            "address": "Calle Halconero del Rey",
+            "lat": 40.3717134,
+            "lon": -3.7342957
+        },
+        "order_id": "0f0251b8-8c36-4bf8-987f-fa3dde93922d",
+        "order": {
+            "n_objects": 2,
+            "volume": 75.03965339997555,
+            "weight": 18.723393412745395
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 137034514882,
+        "location": {
+            "address": "Carril bici Parque de San Isidro",
+            "lat": 40.398445800000005,
+            "lon": -3.7303466133995062
+        },
+        "order_id": "394e13e1-7b17-4b53-a1ee-f00d50a4458c",
+        "order": {
+            "n_objects": 4,
+            "volume": 29.37867938586823,
+            "weight": 15.760050746904305
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 906513673591,
+        "location": {
+            "address": "Calle del General Ricardos",
+            "lat": 40.38068623679933,
+            "lon": -3.7450601964932946
+        },
+        "order_id": "6857b748-c580-4d68-872e-e56bd06ba139",
+        "order": {
+            "n_objects": 9,
+            "volume": 46.05403704872817,
+            "weight": 8.948312467045382
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 936701544453,
+        "location": {
+            "address": "Calle del Guadalete1",
+            "lat": 40.3889577,
+            "lon": -3.7143361
+        },
+        "order_id": "c55d30e3-ba78-4a42-967d-a392bd5981af",
+        "order": {
+            "n_objects": 1,
+            "volume": 25.679729368180357,
+            "weight": 5.689416796749485
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 408448166282,
+        "location": {
+            "address": "Calle del General Ricardos",
+            "lat": 40.38925565,
+            "lon": -3.7316430661401094
+        },
+        "order_id": "207b94e9-81ae-49c5-8360-b321d09a38af",
+        "order": {
+            "n_objects": 8,
+            "volume": 29.026842009353246,
+            "weight": 41.91595383216673
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 945645752495,
+        "location": {
+            "address": "Carril bici Parquesur",
+            "lat": 40.38164295,
+            "lon": -3.721092322836213
+        },
+        "order_id": "fa777f82-5549-4690-bd78-02021caae38d",
+        "order": {
+            "n_objects": 1,
+            "volume": 53.60666180587265,
+            "weight": 24.2521046413202
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 462589777733,
+        "location": {
+            "address": "Calle del Duro",
+            "lat": 40.36419317059482,
+            "lon": -3.7440843536977817
+        },
+        "order_id": "559cd460-b0ea-47c7-b1fb-44b75e7b23e8",
+        "order": {
+            "n_objects": 6,
+            "volume": 19.87346499865444,
+            "weight": 20.488327144786613
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 940415883808,
+        "location": {
+            "address": "Calle de Santa Flora",
+            "lat": 40.38714017125712,
+            "lon": -3.718711667134095
+        },
+        "order_id": "7e0ff00c-18be-4a68-b24e-a3a719066b89",
+        "order": {
+            "n_objects": 3,
+            "volume": 82.31924128875603,
+            "weight": 24.276430594895043
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 905656159924,
+        "location": {
+            "address": "Calle de Jos\u00e9 del R\u00edo",
+            "lat": 40.3964833,
+            "lon": -3.7272765
+        },
+        "order_id": "8259b7f1-1c5f-44c3-b1a7-8251cd513ce1",
+        "order": {
+            "n_objects": 5,
+            "volume": 19.095028708438793,
+            "weight": 22.415138714465854
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 454386495365,
+        "location": {
+            "address": "Calle de Belzunegui",
+            "lat": 40.3768471,
+            "lon": -3.7392442
+        },
+        "order_id": "0925dfb2-05d1-4488-a928-30462280af24",
+        "order": {
+            "n_objects": 6,
+            "volume": 93.69002629155952,
+            "weight": 14.062080985880575
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 907432298422,
+        "location": {
+            "address": "Calle del D\u00e1til",
+            "lat": 40.37647200433039,
+            "lon": -3.748571529342565
+        },
+        "order_id": "ad542356-f86a-4a84-82ad-79f7426fe148",
+        "order": {
+            "n_objects": 2,
+            "volume": 94.78811122334237,
+            "weight": 31.3691280447719
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 833288461427,
+        "location": {
+            "address": "Paseo de Santa Mar\u00eda de la Cabeza",
+            "lat": 40.3861315,
+            "lon": -3.7168903
+        },
+        "order_id": "d0b4bef2-4bdc-41a5-bfe0-6f1f683d7ac4",
+        "order": {
+            "n_objects": 5,
+            "volume": 70.7781897788507,
+            "weight": 8.596928758083061
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 207926214763,
+        "location": {
+            "address": "Calle Halconero del Rey",
+            "lat": 40.3677732,
+            "lon": -3.7343981
+        },
+        "order_id": "de35dc22-38c8-439d-8ef6-0e21fa939fc3",
+        "order": {
+            "n_objects": 1,
+            "volume": 53.04241786873815,
+            "weight": 44.52563646966007
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 172462934514,
+        "location": {
+            "address": "Paseo de la Ermita del Santo",
+            "lat": 40.3999855,
+            "lon": -3.730262
+        },
+        "order_id": "1d9db484-375c-41aa-9abb-16a9de1fdf9b",
+        "order": {
+            "n_objects": 4,
+            "volume": 47.67281407951552,
+            "weight": 8.640211788814756
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 634582079593,
+        "location": {
+            "address": "Calle del Siglo Futuro14",
+            "lat": 40.37674075,
+            "lon": -3.7454917113203505
+        },
+        "order_id": "b577c665-cbb8-4774-ba5a-52e22dfc6f08",
+        "order": {
+            "n_objects": 7,
+            "volume": 28.366421275297213,
+            "weight": 17.22331202826638
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 818780340359,
+        "location": {
+            "address": "Calle de Jacobinia74",
+            "lat": 40.3779132,
+            "lon": -3.7536718
+        },
+        "order_id": "d3d3635a-c38b-4d4b-bfb5-785e04703c19",
+        "order": {
+            "n_objects": 6,
+            "volume": 3.1148028324232935,
+            "weight": 31.325497059236795
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 770677973499,
+        "location": {
+            "address": "M-40",
+            "lat": 40.36417280387556,
+            "lon": -3.7275149436953057
+        },
+        "order_id": "4d375c27-eeba-42b5-b9a2-3d9e4504613d",
+        "order": {
+            "n_objects": 2,
+            "volume": 97.19651958936466,
+            "weight": 11.403580351836142
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 111103747400,
+        "location": {
+            "address": "Avenida de Nuestra Se\u00f1ora de F\u00e1tima",
+            "lat": 40.3796592,
+            "lon": -3.7487621
+        },
+        "order_id": "22be90a6-ace6-43e4-9066-5d093428d979",
+        "order": {
+            "n_objects": 3,
+            "volume": 44.01888152199415,
+            "weight": 9.971812042880064
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 874447466925,
+        "location": {
+            "address": "Plaza de la Armer\u00eda",
+            "lat": 40.416985800000006,
+            "lon": -3.714393497544592
+        },
+        "order_id": "8010b97d-7627-4077-987c-2fe8ca99e024",
+        "order": {
+            "n_objects": 9,
+            "volume": 29.944622889729878,
+            "weight": 10.315731269028458
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 387157954099,
+        "location": {
+            "address": "Calle de El Salvador",
+            "lat": 40.4140914,
+            "lon": -3.7064687
+        },
+        "order_id": "687d0b0c-4814-4a33-8546-b260e751d575",
+        "order": {
+            "n_objects": 1,
+            "volume": 99.91039065288466,
+            "weight": 42.204405219960215
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 542898357986,
+        "location": {
+            "address": "Calle del General Casta\u00f1os7",
+            "lat": 40.42539505,
+            "lon": -3.694110779301942
+        },
+        "order_id": "801472bf-a397-4d32-97ac-77fbffdbbe5b",
+        "order": {
+            "n_objects": 2,
+            "volume": 80.54429147315179,
+            "weight": 7.239432666816944
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 197712748280,
+        "location": {
+            "address": "Calle de Fuencarral46",
+            "lat": 40.4231586,
+            "lon": -3.7006127
+        },
+        "order_id": "e211f188-bb86-46db-9af5-393785bee619",
+        "order": {
+            "n_objects": 8,
+            "volume": 89.97864857506855,
+            "weight": 44.146349734037834
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 728092280344,
+        "location": {
+            "address": "Calle de San Quint\u00edn",
+            "lat": 40.419195900000005,
+            "lon": -3.712267652233816
+        },
+        "order_id": "679d031e-3e6d-4e1e-b71e-4aa54e0912c0",
+        "order": {
+            "n_objects": 4,
+            "volume": 78.34697466805595,
+            "weight": 39.15206288656559
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 676274662420,
+        "location": {
+            "address": "Calle del Esp\u00edritu Santo18",
+            "lat": 40.42547935,
+            "lon": -3.703177250323952
+        },
+        "order_id": "e7379bc5-a6e1-473a-b9cb-a847f8ba3a60",
+        "order": {
+            "n_objects": 3,
+            "volume": 61.16269376405159,
+            "weight": 39.064318676616274
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 873734010536,
+        "location": {
+            "address": "Plaza de San Andr\u00e9s1",
+            "lat": 40.41222615,
+            "lon": -3.711491512051957
+        },
+        "order_id": "650541c3-60e2-4c2c-a73f-6408311ca140",
+        "order": {
+            "n_objects": 3,
+            "volume": 37.21388197940755,
+            "weight": 18.304292529389823
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 221981459525,
+        "location": {
+            "address": "Calle Tabernillas19",
+            "lat": 40.4103576,
+            "lon": -3.7115326467052574
+        },
+        "order_id": "9587237b-deca-4381-8e09-bc0f0feff97c",
+        "order": {
+            "n_objects": 8,
+            "volume": 61.559706887765174,
+            "weight": 7.568390469322053
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 835127002903,
+        "location": {
+            "address": "Calle de la Encomienda",
+            "lat": 40.40863315,
+            "lon": -3.707329519930352
+        },
+        "order_id": "05d5d9f3-23fe-4478-bee9-08a82a05c4b7",
+        "order": {
+            "n_objects": 7,
+            "volume": 9.021753414190156,
+            "weight": 19.10776915900492
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 302697402369,
+        "location": {
+            "address": "Calle de la Cava Alta14",
+            "lat": 40.4122677,
+            "lon": -3.7090583
+        },
+        "order_id": "5dd0ead1-9eb7-4b74-83c2-c353d9828bf1",
+        "order": {
+            "n_objects": 5,
+            "volume": 69.85672262827873,
+            "weight": 33.37752601258013
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 779572214764,
+        "location": {
+            "address": "Calle de Embajadores15",
+            "lat": 40.4095677,
+            "lon": -3.7056128175925935
+        },
+        "order_id": "983bb26f-08bd-4e15-8c09-0bc54ff2cfa2",
+        "order": {
+            "n_objects": 7,
+            "volume": 8.373674208008744,
+            "weight": 26.376293490591106
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 755294248380,
+        "location": {
+            "address": "Calle de la Ballesta24",
+            "lat": 40.4224277,
+            "lon": -3.7032224
+        },
+        "order_id": "985a5a3d-3424-4ba1-af24-d2104a33c35f",
+        "order": {
+            "n_objects": 4,
+            "volume": 19.935876424984606,
+            "weight": 18.024098163810773
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 59987194123,
+        "location": {
+            "address": "Paseo del Prado",
+            "lat": 40.41389125,
+            "lon": -3.6935851167887463
+        },
+        "order_id": "f3deba51-ac39-4a93-9210-0ac332a9167a",
+        "order": {
+            "n_objects": 2,
+            "volume": 38.49396607907667,
+            "weight": 29.59027537935225
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 834745745229,
+        "location": {
+            "address": "Calle de Alberto Aguilera",
+            "lat": 40.4300144,
+            "lon": -3.7114198
+        },
+        "order_id": "05860156-acf4-4363-8aa3-9233a61bfd12",
+        "order": {
+            "n_objects": 6,
+            "volume": 5.090232451708939,
+            "weight": 24.15940532983101
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 609421439105,
+        "location": {
+            "address": "Calle del General Casta\u00f1os4",
+            "lat": 40.4259367,
+            "lon": -3.6934039256761686
+        },
+        "order_id": "406eb3bf-2b1f-4283-9e42-6af317464deb",
+        "order": {
+            "n_objects": 7,
+            "volume": 23.865871535509832,
+            "weight": 42.75803521258171
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 231950299206,
+        "location": {
+            "address": "Calle de Canillas76",
+            "lat": 40.4437861,
+            "lon": -3.6721019
+        },
+        "order_id": "505171a7-526a-42d2-bf66-3808c9ab77d4",
+        "order": {
+            "n_objects": 1,
+            "volume": 89.35269043768237,
+            "weight": 15.488412247198323
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 220803608761,
+        "location": {
+            "address": "Calle de Serrano127",
+            "lat": 40.4423626,
+            "lon": -3.6871913
+        },
+        "order_id": "431d7a83-c012-4e82-8d30-1cf9c308c1c5",
+        "order": {
+            "n_objects": 7,
+            "volume": 64.90028754897585,
+            "weight": 29.57522372115697
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 808053751395,
+        "location": {
+            "address": "Calle Edison",
+            "lat": 40.439236300000005,
+            "lon": -3.680436315163937
+        },
+        "order_id": "49f65412-4628-49be-a1b6-b3228d10af06",
+        "order": {
+            "n_objects": 7,
+            "volume": 23.490756171689597,
+            "weight": 18.142508912727358
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 948579298985,
+        "location": {
+            "address": "Calle de Colombia17",
+            "lat": 40.4573707,
+            "lon": -3.675153256367037
+        },
+        "order_id": "c006a26f-6cb8-4484-9502-531fd3528959",
+        "order": {
+            "n_objects": 9,
+            "volume": 35.906528276259706,
+            "weight": 11.590846510295245
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 821454007688,
+        "location": {
+            "address": "Avenida de Am\u00e9rica39",
+            "lat": 40.43987915,
+            "lon": -3.6715151216632034
+        },
+        "order_id": "3be99119-ff83-4991-8c9f-97f9cc0ad4ea",
+        "order": {
+            "n_objects": 3,
+            "volume": 27.986818133592948,
+            "weight": 29.991020691181593
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 216030650169,
+        "location": {
+            "address": "Calle de N\u00fa\u00f1ez de Balboa",
+            "lat": 40.4386991,
+            "lon": -3.6810655959242498
+        },
+        "order_id": "d33a93dc-f903-4ba8-af6d-3c2e1e0414de",
+        "order": {
+            "n_objects": 5,
+            "volume": 88.7301632162509,
+            "weight": 38.45810755691595
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 46607380382,
+        "location": {
+            "address": "Avenida de Burgos19",
+            "lat": 40.47383995,
+            "lon": -3.6762759525080426
+        },
+        "order_id": "874a27a8-3cc9-466a-8b5b-9eb1eed53ec4",
+        "order": {
+            "n_objects": 4,
+            "volume": 54.52103165283505,
+            "weight": 11.456587074623384
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 434014739747,
+        "location": {
+            "address": "Calle de Agust\u00edn de Fox\u00e1",
+            "lat": 40.4735393,
+            "lon": -3.683364849199527
+        },
+        "order_id": "d943e493-fb25-4b42-8e7e-e2d18f907984",
+        "order": {
+            "n_objects": 6,
+            "volume": 84.5085443377789,
+            "weight": 8.34894239762291
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 985408530812,
+        "location": {
+            "address": "Plaza de Catalu\u00f1a",
+            "lat": 40.44883766155425,
+            "lon": -3.6783051568615672
+        },
+        "order_id": "c790498b-b138-4ad9-b4e2-ad0b0f7b770e",
+        "order": {
+            "n_objects": 3,
+            "volume": 65.90298067994809,
+            "weight": 3.0713634153270055
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 505260531828,
+        "location": {
+            "address": "Calle de Guatemala",
+            "lat": 40.45981975,
+            "lon": -3.6727026
+        },
+        "order_id": "11347bd7-c021-4c1c-a422-7eb21c7cd001",
+        "order": {
+            "n_objects": 9,
+            "volume": 59.40027936407167,
+            "weight": 46.18267960109807
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 184945364842,
+        "location": {
+            "address": "Calle de Carbonero y Sol",
+            "lat": 40.4450919,
+            "lon": -3.6907197
+        },
+        "order_id": "7396d824-1bba-4129-9b8b-cd60b442bf19",
+        "order": {
+            "n_objects": 2,
+            "volume": 29.515448126586506,
+            "weight": 28.291751964890945
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 237944993731,
+        "location": {
+            "address": "Calle de V\u00edctor Andr\u00e9s Bela\u00fande52",
+            "lat": 40.45787835,
+            "lon": -3.67998144341824
+        },
+        "order_id": "b6a13495-a0f9-46ac-ac20-f60c8b1c5af4",
+        "order": {
+            "n_objects": 4,
+            "volume": 92.47022495578724,
+            "weight": 11.078902010187035
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 339962850550,
+        "location": {
+            "address": "Nudo de Manoteras",
+            "lat": 40.48324456665296,
+            "lon": -3.673928823241329
+        },
+        "order_id": "4f9b19b6-0eba-464b-a1a6-bd532bf10ab9",
+        "order": {
+            "n_objects": 9,
+            "volume": 40.781008081404934,
+            "weight": 31.458292754931534
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 35288119345,
+        "location": {
+            "address": "Calle de Mateo Inurria30",
+            "lat": 40.46687825,
+            "lon": -3.68191505
+        },
+        "order_id": "2e8e36c0-cf67-437d-a8d3-61129781241c",
+        "order": {
+            "n_objects": 7,
+            "volume": 37.17203412371107,
+            "weight": 4.767666620742812
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 66863896515,
+        "location": {
+            "address": "Calle de Santa Magdalena Sof\u00eda12",
+            "lat": 40.4696133,
+            "lon": -3.6746977539612464
+        },
+        "order_id": "f75a4890-d3cc-4438-9504-1b16ff2eda16",
+        "order": {
+            "n_objects": 9,
+            "volume": 82.31951967890078,
+            "weight": 26.709613160954273
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 781711945825,
+        "location": {
+            "address": "Calle del Duque de Sevilla",
+            "lat": 40.44259509100797,
+            "lon": -3.6803971344364137
+        },
+        "order_id": "dd1ab654-e3ae-4c78-b016-f1a2bc5b7b7c",
+        "order": {
+            "n_objects": 6,
+            "volume": 8.531495970414005,
+            "weight": 1.6213617575491646
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 145294928501,
+        "location": {
+            "address": "Calle de Bolivia28",
+            "lat": 40.4581778,
+            "lon": -3.6777512
+        },
+        "order_id": "1489e94b-1ba8-4a41-ac15-bf9f7d61e149",
+        "order": {
+            "n_objects": 6,
+            "volume": 76.31337115422176,
+            "weight": 31.076980196809775
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 895432643576,
+        "location": {
+            "address": "Calle de Pablo Luna10",
+            "lat": 40.4789493,
+            "lon": -3.6839343000000007
+        },
+        "order_id": "7d0115a3-0dc0-4c6b-8d49-3ff1477dc5d9",
+        "order": {
+            "n_objects": 9,
+            "volume": 7.308114481823204,
+            "weight": 2.0547266755986002
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 169234723050,
+        "location": {
+            "address": "Calle de Guatemala",
+            "lat": 40.45985805,
+            "lon": -3.673297348722678
+        },
+        "order_id": "6b077106-5e45-41d8-8263-02753fbc983e",
+        "order": {
+            "n_objects": 1,
+            "volume": 31.742563294525485,
+            "weight": 1.3771582341232826
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 483740737768,
+        "location": {
+            "address": "Calle de Potos\u00ed",
+            "lat": 40.45702445,
+            "lon": -3.679684071892655
+        },
+        "order_id": "4e6f2186-2002-48e6-987c-fa42a7f8b6ef",
+        "order": {
+            "n_objects": 7,
+            "volume": 31.19231068448946,
+            "weight": 16.462021865115
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 619979169379,
+        "location": {
+            "address": "Calle de Alfonso VIII24",
+            "lat": 40.4674659,
+            "lon": -3.6765889
+        },
+        "order_id": "92531f2c-71cc-4b0a-9247-62ad8fcaf266",
+        "order": {
+            "n_objects": 8,
+            "volume": 34.28381018036824,
+            "weight": 40.2839923253992
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 600797921786,
+        "location": {
+            "address": "Calle de Pablo Luna",
+            "lat": 40.4802233,
+            "lon": -3.6819023226694663
+        },
+        "order_id": "89fc00ee-107d-403c-af7f-f596056a718c",
+        "order": {
+            "n_objects": 9,
+            "volume": 28.357911337584873,
+            "weight": 20.596521164444255
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 917996108472,
+        "location": {
+            "address": "Calle del Pr\u00edncipe de Vergara275",
+            "lat": 40.4580496,
+            "lon": -3.6770982
+        },
+        "order_id": "4ce7a6f5-5a70-4cd6-b2ae-5b3ddee9764b",
+        "order": {
+            "n_objects": 6,
+            "volume": 14.761824113358232,
+            "weight": 38.30756015558893
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 300037035081,
+        "location": {
+            "address": "Calle de Bravo Murillo",
+            "lat": 40.4415314,
+            "lon": -3.7040666
+        },
+        "order_id": "8e2e8252-1483-4ee7-8946-8a7bd1a72521",
+        "order": {
+            "n_objects": 7,
+            "volume": 73.60867096474773,
+            "weight": 11.787207760503243
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 484442228069,
+        "location": {
+            "address": "Paseo de Eduardo Dato2",
+            "lat": 40.43239065,
+            "lon": -3.6954547679149448
+        },
+        "order_id": "146d280a-be59-48c6-8765-9fbf9871e4cc",
+        "order": {
+            "n_objects": 4,
+            "volume": 97.88608156770347,
+            "weight": 25.583961473908207
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 29322281222,
+        "location": {
+            "address": "Calle de Crist\u00f3bal Bordi\u00fa5",
+            "lat": 40.4433059,
+            "lon": -3.7033379
+        },
+        "order_id": "6f3e8455-0d8f-41ea-9657-7f695398192d",
+        "order": {
+            "n_objects": 7,
+            "volume": 52.580424194124944,
+            "weight": 39.630439602664666
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 92564455399,
+        "location": {
+            "address": "Calle de Hilari\u00f3n Eslava2",
+            "lat": 40.4323208,
+            "lon": -3.7167419
+        },
+        "order_id": "48734a58-1fc2-4b42-9dad-05e3fcb4c9b6",
+        "order": {
+            "n_objects": 8,
+            "volume": 22.797270510996842,
+            "weight": 38.90375193703788
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 544018234370,
+        "location": {
+            "address": "Paseo de la Castellana",
+            "lat": 40.4450929,
+            "lon": -3.692731631579707
+        },
+        "order_id": "94e48e95-0e35-4e01-848a-04e743358fff",
+        "order": {
+            "n_objects": 4,
+            "volume": 44.478447188797276,
+            "weight": 47.25191540640938
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 939110464620,
+        "location": {
+            "address": "Calle de Garc\u00eda de Paredes45",
+            "lat": 40.436907649999995,
+            "lon": -3.694907833786936
+        },
+        "order_id": "9245bfb2-7e15-43e6-87b0-a110ec118bb8",
+        "order": {
+            "n_objects": 6,
+            "volume": 60.228485041765026,
+            "weight": 47.31474668777207
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 902487728811,
+        "location": {
+            "address": "Calle de Galileo39",
+            "lat": 40.43383345,
+            "lon": -3.711196557745207
+        },
+        "order_id": "e378b103-ed0a-4801-a504-ab7abd167315",
+        "order": {
+            "n_objects": 7,
+            "volume": 14.968979425556363,
+            "weight": 39.592324404194024
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 809721264297,
+        "location": {
+            "address": "Calle de Lucio del Valle",
+            "lat": 40.441342250000005,
+            "lon": -3.709728115151803
+        },
+        "order_id": "85e09c77-4332-4acd-8ec5-be77421be036",
+        "order": {
+            "n_objects": 8,
+            "volume": 82.21849837514993,
+            "weight": 22.361399137250036
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 513794425317,
+        "location": {
+            "address": "Calle del Marqu\u00e9s de Riscal16",
+            "lat": 40.430407599999995,
+            "lon": -3.689841430385321
+        },
+        "order_id": "e589bb7e-1103-4449-aded-347892be6d83",
+        "order": {
+            "n_objects": 5,
+            "volume": 26.417691603556783,
+            "weight": 22.460105891073344
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 7208054522,
+        "location": {
+            "address": "Calle de Manuel Silvela20",
+            "lat": 40.430884899999995,
+            "lon": -3.69917826527237
+        },
+        "order_id": "c970dfb4-00ad-42af-b3d4-588caa37ed72",
+        "order": {
+            "n_objects": 2,
+            "volume": 62.478521717390386,
+            "weight": 21.69701284603034
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 329309658273,
+        "location": {
+            "address": "Calle de Sagunto2",
+            "lat": 40.4334908,
+            "lon": -3.7003822
+        },
+        "order_id": "8fd26d48-fb4f-48cd-b2e0-63db60f38ca0",
+        "order": {
+            "n_objects": 4,
+            "volume": 60.53253774825484,
+            "weight": 30.431797305655927
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 217693443025,
+        "location": {
+            "address": "Calle de Agust\u00edn de Betancourt",
+            "lat": 40.44398035,
+            "lon": -3.693940345426433
+        },
+        "order_id": "b5f0a7e9-7acd-4784-951f-c98f67cbf5ef",
+        "order": {
+            "n_objects": 7,
+            "volume": 39.64812990103114,
+            "weight": 7.173303227716981
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 572590073193,
+        "location": {
+            "address": "Paseo de la Castellana",
+            "lat": 40.4406194,
+            "lon": -3.6921738
+        },
+        "order_id": "08981781-1513-47d9-9c42-c19f7e546a55",
+        "order": {
+            "n_objects": 1,
+            "volume": 92.94301712208853,
+            "weight": 26.216054006529586
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 330820888209,
+        "location": {
+            "address": "Calle de Fernando El Santo",
+            "lat": 40.42794255,
+            "lon": -3.694096419530552
+        },
+        "order_id": "0eb1871b-60cc-4a77-aece-d9ccb9fa851b",
+        "order": {
+            "n_objects": 8,
+            "volume": 65.47388971354195,
+            "weight": 25.56769132350824
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 202088411945,
+        "location": {
+            "address": "Avenida de Filipinas",
+            "lat": 40.44053515,
+            "lon": -3.7052266551806303
+        },
+        "order_id": "00ac7900-2da6-4b39-b6e3-8fefe739958d",
+        "order": {
+            "n_objects": 5,
+            "volume": 98.58077140678365,
+            "weight": 41.91288908665249
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 698903728922,
+        "location": {
+            "address": "Calle de Espronceda34",
+            "lat": 40.44030265,
+            "lon": -3.6948600491588506
+        },
+        "order_id": "778a4875-a49b-4690-a4da-d5a9a84fe6a0",
+        "order": {
+            "n_objects": 9,
+            "volume": 87.37702929019414,
+            "weight": 29.588641298036244
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 825637247435,
+        "location": {
+            "address": "Calle de Max Aub",
+            "lat": 40.44376082897243,
+            "lon": -3.7143496524875266
+        },
+        "order_id": "efd5bd9f-0a91-45a6-92ec-b442d5b7f85f",
+        "order": {
+            "n_objects": 4,
+            "volume": 94.08748385937307,
+            "weight": 13.426821870219943
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 215644156601,
+        "location": {
+            "address": "Calle de Manuel Gonz\u00e1lez Longoria8",
+            "lat": 40.4285846,
+            "lon": -3.6968567385036177
+        },
+        "order_id": "fa0e4e74-395f-46af-8222-dd8bb0aa07f3",
+        "order": {
+            "n_objects": 4,
+            "volume": 2.0491203456518328,
+            "weight": 35.08616283877117
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 137995035465,
+        "location": {
+            "address": "Calle de Melqu\u00edades \u00c1lvarez",
+            "lat": 40.44277905,
+            "lon": -3.7071260504139616
+        },
+        "order_id": "e3053533-226a-4c4f-9705-cd516db76c41",
+        "order": {
+            "n_objects": 1,
+            "volume": 11.640296565473399,
+            "weight": 8.018095295245308
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 579457368573,
+        "location": {
+            "address": "Calle de Guzm\u00e1n el Bueno",
+            "lat": 40.444818350000006,
+            "lon": -3.711486873899288
+        },
+        "order_id": "fe740369-a9ea-4136-ab3a-ebc1c4f879cb",
+        "order": {
+            "n_objects": 5,
+            "volume": 55.89584230707192,
+            "weight": 14.303963933544871
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 931738725045,
+        "location": {
+            "address": "Avenida de la Moncloa3",
+            "lat": 40.4457461,
+            "lon": -3.715603200845308
+        },
+        "order_id": "0508ee2f-dc79-42fb-bf6f-4828dd49d946",
+        "order": {
+            "n_objects": 5,
+            "volume": 29.752677840615373,
+            "weight": 10.27946770229915
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 48410039267,
+        "location": {
+            "address": "Calle de Bravo Murillo",
+            "lat": 40.4402642,
+            "lon": -3.703924
+        },
+        "order_id": "93458b85-000d-4ff7-b235-547af769f9a4",
+        "order": {
+            "n_objects": 4,
+            "volume": 83.69704738887074,
+            "weight": 29.09006173057787
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 989346495539,
+        "location": {
+            "address": "Paseo de San Francisco de Sales",
+            "lat": 40.4403896,
+            "lon": -3.7163827
+        },
+        "order_id": "98dc9cc8-41f1-4d2c-a78c-56118428e423",
+        "order": {
+            "n_objects": 4,
+            "volume": 69.30211881166507,
+            "weight": 46.2023913772156
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 253675316465,
+        "location": {
+            "address": "Calle de Alonso Cano27",
+            "lat": 40.43756785,
+            "lon": -3.698050427742616
+        },
+        "order_id": "b726bcb6-000f-42d5-9ac5-cd90ace03302",
+        "order": {
+            "n_objects": 9,
+            "volume": 19.818968324631523,
+            "weight": 49.52641061797838
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 481716300567,
+        "location": {
+            "address": "Calzada lateral M-30",
+            "lat": 40.46856953662439,
+            "lon": -3.669328157287673
+        },
+        "order_id": "5605ae93-4963-4120-bddf-fd6347d8be94",
+        "order": {
+            "n_objects": 3,
+            "volume": 35.957244039529755,
+            "weight": 49.37422303999787
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 375938918359,
+        "location": {
+            "address": "Calle del Poeta Blas de Otero15",
+            "lat": 40.4213581,
+            "lon": -3.6544386804816944
+        },
+        "order_id": "47a128d1-5e42-4528-b19d-231cc1fcddfd",
+        "order": {
+            "n_objects": 1,
+            "volume": 27.206905817291513,
+            "weight": 15.893116637942844
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 583849204313,
+        "location": {
+            "address": "Calle del Elfo4",
+            "lat": 40.4330836,
+            "lon": -3.6565864
+        },
+        "order_id": "7018528b-961b-4699-9994-52dc8d1d8c5b",
+        "order": {
+            "n_objects": 6,
+            "volume": 97.9173039713659,
+            "weight": 12.919990406931808
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 511245389235,
+        "location": {
+            "address": "Calle de Gutierre de Cetina22",
+            "lat": 40.43278025,
+            "lon": -3.643909229813026
+        },
+        "order_id": "7c29ceb4-f100-419f-9e08-c52c6f6d82c0",
+        "order": {
+            "n_objects": 9,
+            "volume": 31.546585321629813,
+            "weight": 43.058632770889844
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 401275410890,
+        "location": {
+            "address": "Avenida de Am\u00e9rica",
+            "lat": 40.445795647113535,
+            "lon": -3.6569196708160625
+        },
+        "order_id": "10bf8ce5-fc4e-4c4f-bef5-99aaa8f03eea",
+        "order": {
+            "n_objects": 7,
+            "volume": 39.86732654470597,
+            "weight": 24.015395240050164
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 847792710573,
+        "location": {
+            "address": "Calle Pedro Salinas",
+            "lat": 40.4590089,
+            "lon": -3.66347773113495
+        },
+        "order_id": "53bcc45f-be79-4a22-a8df-1009e42a0db1",
+        "order": {
+            "n_objects": 8,
+            "volume": 80.22243736723293,
+            "weight": 44.24625796158138
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 946938934555,
+        "location": {
+            "address": "Calle de Francisco Rioja",
+            "lat": 40.43091665,
+            "lon": -3.6374347617367175
+        },
+        "order_id": "a6abd36a-996b-4568-b853-31127a867bad",
+        "order": {
+            "n_objects": 1,
+            "volume": 95.93796209871243,
+            "weight": 29.45410489342183
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 126294079025,
+        "location": {
+            "address": "Calle de Verdaguer y Garc\u00eda45",
+            "lat": 40.440564949999995,
+            "lon": -3.654571532049432
+        },
+        "order_id": "b79902dd-fee8-4b59-bd7a-66ee42a86b85",
+        "order": {
+            "n_objects": 5,
+            "volume": 84.11165270424185,
+            "weight": 32.82634867508154
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 611229406436,
+        "location": {
+            "address": "Calle de Virgen de los Reyes24",
+            "lat": 40.4392587,
+            "lon": -3.649720644594601
+        },
+        "order_id": "a100470a-9ba3-4da6-ac55-2b590d36ff31",
+        "order": {
+            "n_objects": 5,
+            "volume": 19.78529984530132,
+            "weight": 48.453366501550924
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 453091980219,
+        "location": {
+            "address": "Calle Duquesa Castrej\u00f3n",
+            "lat": 40.46162575,
+            "lon": -3.663258943388415
+        },
+        "order_id": "91997d56-1f3d-48d9-940b-d2fd456a191c",
+        "order": {
+            "n_objects": 6,
+            "volume": 38.55849330854413,
+            "weight": 4.477060597381478
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 278124581246,
+        "location": {
+            "address": "Calle Cyesa23",
+            "lat": 40.4294417,
+            "lon": -3.6559845668981503
+        },
+        "order_id": "635820c0-0d2a-4809-8497-cadbb97ed103",
+        "order": {
+            "n_objects": 1,
+            "volume": 95.03934625816133,
+            "weight": 47.45865722369666
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 945825917675,
+        "location": {
+            "address": "Calle de Miguel de Unamuno16",
+            "lat": 40.4289356,
+            "lon": -3.6497936
+        },
+        "order_id": "e3ba779e-7d62-4c98-89ab-7e57e41da2ef",
+        "order": {
+            "n_objects": 1,
+            "volume": 17.235995968041006,
+            "weight": 19.744187739083596
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 645777456235,
+        "location": {
+            "address": "Calle de A\u00f1astro5",
+            "lat": 40.4676993,
+            "lon": -3.6638231442836457
+        },
+        "order_id": "39a35d1f-3c8c-42e8-924e-25e159fc8df8",
+        "order": {
+            "n_objects": 2,
+            "volume": 71.27758929673041,
+            "weight": 7.989448779906221
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 800458366785,
+        "location": {
+            "address": "Calle de G\u00f3mez Hemans",
+            "lat": 40.47089356293697,
+            "lon": -3.665678981132849
+        },
+        "order_id": "d1713a3d-1be0-415f-a8db-fb90cd557f18",
+        "order": {
+            "n_objects": 3,
+            "volume": 35.823931040992875,
+            "weight": 42.85386021392792
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 719006636002,
+        "location": {
+            "address": "Avenida de Am\u00e9rica",
+            "lat": 40.44911023455441,
+            "lon": -3.648687167959947
+        },
+        "order_id": "8ea5f22a-25b8-41c8-981a-4bc3aa55aca3",
+        "order": {
+            "n_objects": 7,
+            "volume": 17.567169922135818,
+            "weight": 10.425894982616704
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 385931953842,
+        "location": {
+            "address": "Avenida de Daroca",
+            "lat": 40.4198803,
+            "lon": -3.636428058677643
+        },
+        "order_id": "e13e4c3f-1103-4e62-95e0-2d13222dac6c",
+        "order": {
+            "n_objects": 2,
+            "volume": 47.40841246500331,
+            "weight": 39.2984640343061
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 508192296462,
+        "location": {
+            "address": "Calle de los Hermanos Garc\u00eda Noblejas",
+            "lat": 40.4214094,
+            "lon": -3.6260896132298432
+        },
+        "order_id": "646e97de-3623-486b-9094-8552376c9c47",
+        "order": {
+            "n_objects": 2,
+            "volume": 36.457892019574324,
+            "weight": 12.85972391131147
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 724377931812,
+        "location": {
+            "address": "Calle de Arturo Soria",
+            "lat": 40.47213305,
+            "lon": -3.667278032881943
+        },
+        "order_id": "87e45207-df60-44a1-9eff-c82daede6aca",
+        "order": {
+            "n_objects": 1,
+            "volume": 52.55481291654664,
+            "weight": 19.63039577645632
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 317990774625,
+        "location": {
+            "address": "Calle de Arturo Soria",
+            "lat": 40.47290875,
+            "lon": -3.6677195860237175
+        },
+        "order_id": "818d48d8-0e21-4059-867c-6c6623305b3e",
+        "order": {
+            "n_objects": 5,
+            "volume": 59.01849971092826,
+            "weight": 9.815822735363431
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 755758012943,
+        "location": {
+            "address": "Calle de Treviana",
+            "lat": 40.44935395,
+            "lon": -3.65904185631564
+        },
+        "order_id": "7df07aa6-ce60-40f0-939f-50bccc1c5a86",
+        "order": {
+            "n_objects": 1,
+            "volume": 91.60769168818469,
+            "weight": 18.82801911628484
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 653823302996,
+        "location": {
+            "address": "Calle de Siena10",
+            "lat": 40.43250675,
+            "lon": -3.6561126579559264
+        },
+        "order_id": "2acf9073-48bc-4494-8ec0-50e6d309125e",
+        "order": {
+            "n_objects": 4,
+            "volume": 9.211806049302385,
+            "weight": 38.953004066670104
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 26065859253,
+        "location": {
+            "address": "Calle de Serrano Galvache7",
+            "lat": 40.47044705,
+            "lon": -3.6697109785979034
+        },
+        "order_id": "8fa1e980-7435-4e95-b0aa-df161ecb4530",
+        "order": {
+            "n_objects": 8,
+            "volume": 4.247612980231756,
+            "weight": 19.479522193057992
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 319313431905,
+        "location": {
+            "address": "Calle del Marqu\u00e9s de Portugalete17",
+            "lat": 40.4465656,
+            "lon": -3.645514950523779
+        },
+        "order_id": "fb393e33-8eaf-476c-b84a-3fa18f86196b",
+        "order": {
+            "n_objects": 4,
+            "volume": 78.32793884093147,
+            "weight": 46.120497534125555
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 513965077867,
+        "location": {
+            "address": "Calle de Bueso Pineda13",
+            "lat": 40.4531471,
+            "lon": -3.6574237
+        },
+        "order_id": "400ded28-ba2f-4ffc-8a80-1019cf3362d6",
+        "order": {
+            "n_objects": 4,
+            "volume": 40.511254544649226,
+            "weight": 29.458880381370324
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 178100964160,
+        "location": {
+            "address": "Avenida de Daroca",
+            "lat": 40.42343163533882,
+            "lon": -3.639982667926813
+        },
+        "order_id": "df96e29e-9194-400e-bab0-4e9ff08f57ae",
+        "order": {
+            "n_objects": 2,
+            "volume": 66.25865106654905,
+            "weight": 1.260476910278255
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 185900113133,
+        "location": {
+            "address": "Calle de Manipa",
+            "lat": 40.44244495,
+            "lon": -3.642803806172942
+        },
+        "order_id": "8d4ce3d8-f477-41c4-847d-ff99758cd58b",
+        "order": {
+            "n_objects": 6,
+            "volume": 90.72514373929235,
+            "weight": 39.04725030390294
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 285749620566,
+        "location": {
+            "address": "Avenida de las Trece Rosas",
+            "lat": 40.4190289,
+            "lon": -3.6452174871907506
+        },
+        "order_id": "92d6afdf-5dcb-4a69-aced-72c7330a184c",
+        "order": {
+            "n_objects": 2,
+            "volume": 39.809351608593744,
+            "weight": 47.278260742225164
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 32356726768,
+        "location": {
+            "address": NaN,
+            "lat": 40.5978179,
+            "lon": -3.7715808
+        },
+        "order_id": "baf69e5b-0995-4fb8-a66c-74400519784a",
+        "order": {
+            "n_objects": 5,
+            "volume": 69.04943283433596,
+            "weight": 17.331529965282773
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 555755856867,
+        "location": {
+            "address": "Calle de Mar\u00eda Tubau10",
+            "lat": 40.5138533,
+            "lon": -3.675019800000001
+        },
+        "order_id": "5b159b55-688e-49f8-9a1f-1ccf6ed6de4f",
+        "order": {
+            "n_objects": 4,
+            "volume": 27.951557143454764,
+            "weight": 11.557670692028228
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 642863221845,
+        "location": {
+            "address": "Camino de la Zarzuela",
+            "lat": 40.47291146831678,
+            "lon": -3.7951664674226935
+        },
+        "order_id": "d20f7354-c3bc-41dd-ac11-af5f4d876cf2",
+        "order": {
+            "n_objects": 7,
+            "volume": 25.979762341049625,
+            "weight": 38.038653145950995
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 715179356605,
+        "location": {
+            "address": NaN,
+            "lat": 40.5786039,
+            "lon": -3.7590605
+        },
+        "order_id": "d9cb539a-8207-419f-bf24-82f0f82e29a0",
+        "order": {
+            "n_objects": 9,
+            "volume": 16.67344672821789,
+            "weight": 22.62489824053764
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 391192996624,
+        "location": {
+            "address": "Calle del Monasterio de Oseira",
+            "lat": 40.51040755,
+            "lon": -3.695839074735463
+        },
+        "order_id": "56083da8-4c6b-4f3f-bece-2c4d29c25ecb",
+        "order": {
+            "n_objects": 7,
+            "volume": 47.94230841394669,
+            "weight": 42.31696425265602
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 504524206701,
+        "location": {
+            "address": "Carretera de la Zarzuela",
+            "lat": 40.484009799999995,
+            "lon": -3.796897935978592
+        },
+        "order_id": "34841c36-c397-41e6-a325-522ca7c0dd69",
+        "order": {
+            "n_objects": 8,
+            "volume": 41.54201165621525,
+            "weight": 4.291140436586521
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 192353894028,
+        "location": {
+            "address": "Camino de Saced\u00f3n",
+            "lat": 40.55413336959725,
+            "lon": -3.846988818822596
+        },
+        "order_id": "0ae3a219-cab5-4cd1-a0af-da4c8ea3bb57",
+        "order": {
+            "n_objects": 5,
+            "volume": 62.98148091362781,
+            "weight": 31.348994483054945
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 361442464068,
+        "location": {
+            "address": "Camino de la Casa del Portillo",
+            "lat": 40.48907221429082,
+            "lon": -3.8208153083810408
+        },
+        "order_id": "a25338b6-a0a4-437c-b1f6-c7efd9980f1b",
+        "order": {
+            "n_objects": 2,
+            "volume": 41.27722268512925,
+            "weight": 6.232253495000511
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 812549116932,
+        "location": {
+            "address": "Carretera de la Zarzuela",
+            "lat": 40.48707679836572,
+            "lon": -3.777933651030617
+        },
+        "order_id": "5866f073-9a7e-498f-8d30-340c4d9cc1c7",
+        "order": {
+            "n_objects": 8,
+            "volume": 74.58874232447008,
+            "weight": 23.5182402780537
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 19004830366,
+        "location": {
+            "address": "Pista del Arroyo de Trofa",
+            "lat": 40.5062401,
+            "lon": -3.8279956
+        },
+        "order_id": "acf03003-3011-484e-b628-7ea5b61229c6",
+        "order": {
+            "n_objects": 4,
+            "volume": 98.37716797598425,
+            "weight": 28.888018359862397
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 998232848338,
+        "location": {
+            "address": "Carretera de El Pardo a Colmenar Viejo",
+            "lat": 40.52212606848707,
+            "lon": -3.773565572362904
+        },
+        "order_id": "9630337b-75b9-469c-be0f-2e3a1e3015e3",
+        "order": {
+            "n_objects": 6,
+            "volume": 22.818302148755308,
+            "weight": 30.824429482912365
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 754761386700,
+        "location": {
+            "address": NaN,
+            "lat": 40.5979336,
+            "lon": -3.6273114
+        },
+        "order_id": "8c62188b-2a7d-435b-a30f-2c038a1a7c9f",
+        "order": {
+            "n_objects": 6,
+            "volume": 35.13422324887158,
+            "weight": 34.47908377249537
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 881978383824,
+        "location": {
+            "address": NaN,
+            "lat": 40.5164097,
+            "lon": -3.8231885
+        },
+        "order_id": "9ccfac79-a0d5-4c5f-8f85-4bd36cda6581",
+        "order": {
+            "n_objects": 5,
+            "volume": 92.04032893907379,
+            "weight": 17.395491312056564
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 960982940101,
+        "location": {
+            "address": NaN,
+            "lat": 40.5820048,
+            "lon": -3.8490884
+        },
+        "order_id": "f66d1055-da5c-4f88-b26e-bbb3dc993d60",
+        "order": {
+            "n_objects": 5,
+            "volume": 67.7218249880187,
+            "weight": 8.431444511340185
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 686580160987,
+        "location": {
+            "address": NaN,
+            "lat": 40.6184903,
+            "lon": -3.6631005
+        },
+        "order_id": "9d420cb3-36fd-4192-9950-79f6520327aa",
+        "order": {
+            "n_objects": 6,
+            "volume": 41.74356882800223,
+            "weight": 19.705903851580523
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 274720354225,
+        "location": {
+            "address": "Carretera de la Casa de la Trofa",
+            "lat": 40.50094679583449,
+            "lon": -3.778989187806
+        },
+        "order_id": "a41253c1-3d55-444a-9bb0-ea33ac01f708",
+        "order": {
+            "n_objects": 5,
+            "volume": 99.95026653265703,
+            "weight": 25.972819280028695
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 650774109841,
+        "location": {
+            "address": "Autov\u00eda de Colmenar",
+            "lat": 40.51529955,
+            "lon": -3.686246572158674
+        },
+        "order_id": "6ff99ded-0010-4458-a894-06c4b42b1859",
+        "order": {
+            "n_objects": 1,
+            "volume": 63.05056356804056,
+            "weight": 42.75111413549567
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 476742768147,
+        "location": {
+            "address": "Calle de Sangenjo29",
+            "lat": 40.48554165,
+            "lon": -3.6999045
+        },
+        "order_id": "04d3189e-8a79-4063-934b-25f90432a9e6",
+        "order": {
+            "n_objects": 3,
+            "volume": 34.79279198286327,
+            "weight": 33.31081360990848
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 656238356422,
+        "location": {
+            "address": NaN,
+            "lat": 40.5548944,
+            "lon": -3.7308243
+        },
+        "order_id": "01c5ed02-4989-4de0-b462-b1a42a2dceac",
+        "order": {
+            "n_objects": 5,
+            "volume": 25.07121620343834,
+            "weight": 9.123366826630015
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 201527383641,
+        "location": {
+            "address": NaN,
+            "lat": 40.592468,
+            "lon": -3.6366909
+        },
+        "order_id": "bd156df2-0f01-4896-b94a-91a2b85ceff6",
+        "order": {
+            "n_objects": 2,
+            "volume": 92.46518854084769,
+            "weight": 12.049403127667341
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 268153544475,
+        "location": {
+            "address": "Carretera de Cantoblanco",
+            "lat": 40.5362794,
+            "lon": -3.6833966
+        },
+        "order_id": "9fcea9f6-6316-4bc5-a65b-b9e2fa5b2ffc",
+        "order": {
+            "n_objects": 7,
+            "volume": 17.53010872312446,
+            "weight": 38.103373541026485
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 858064878083,
+        "location": {
+            "address": "Carretera Particular del Chalet",
+            "lat": 40.53361131462396,
+            "lon": -3.833047888141656
+        },
+        "order_id": "669cc86e-0836-4239-99fa-22473f4bd19d",
+        "order": {
+            "n_objects": 7,
+            "volume": 45.72414902744647,
+            "weight": 9.36705533984543
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 565622989486,
+        "location": {
+            "address": "Pista del Arroyo de Trofa",
+            "lat": 40.49344890015907,
+            "lon": -3.7815838680280978
+        },
+        "order_id": "ab1c3ec9-3ff3-46f6-bef7-6c23e8820743",
+        "order": {
+            "n_objects": 4,
+            "volume": 51.70532168188754,
+            "weight": 12.776807005285598
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 563272325763,
+        "location": {
+            "address": "Camino de la Casa del Portillo",
+            "lat": 40.4892743,
+            "lon": -3.8214483
+        },
+        "order_id": "2f5cc682-ccf6-4c2b-8378-c8ef383d186c",
+        "order": {
+            "n_objects": 9,
+            "volume": 12.215914046592639,
+            "weight": 40.74479890369229
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 998081126317,
+        "location": {
+            "address": "Pista de los Ca\u00f1os de Manina",
+            "lat": 40.57083867665827,
+            "lon": -3.838866876010717
+        },
+        "order_id": "277557a2-38f7-4b62-a42b-15bcf2013c49",
+        "order": {
+            "n_objects": 4,
+            "volume": 78.3153767414999,
+            "weight": 42.31251228978003
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 903731308374,
+        "location": {
+            "address": "Arco Verde",
+            "lat": 40.574767,
+            "lon": -3.63815
+        },
+        "order_id": "83cd2afb-6520-4f2e-9f04-4c2f65bf75d7",
+        "order": {
+            "n_objects": 4,
+            "volume": 89.39850349329075,
+            "weight": 13.286282680212672
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 88135011863,
+        "location": {
+            "address": "Cordel de la Matapi\u00f1onera al Arroyo de la Vega  (Arco Verde)",
+            "lat": 40.5907636,
+            "lon": -3.6699073
+        },
+        "order_id": "17cf69ec-3801-47c0-b0e9-14f26df8995a",
+        "order": {
+            "n_objects": 5,
+            "volume": 93.58627464239964,
+            "weight": 33.343528634332365
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 620160405975,
+        "location": {
+            "address": "Carretera de Colmenar Viejo",
+            "lat": 40.52742865,
+            "lon": -3.692953155774984
+        },
+        "order_id": "98bc9e34-c2e3-417a-b033-94dd45d7954a",
+        "order": {
+            "n_objects": 4,
+            "volume": 84.54720685115642,
+            "weight": 13.649037326253978
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 246176162400,
+        "location": {
+            "address": "Carretera Particular del Chalet",
+            "lat": 40.53337893805552,
+            "lon": -3.832777175553847
+        },
+        "order_id": "d2ac3341-48c0-48cb-8f0a-f32f8abf5424",
+        "order": {
+            "n_objects": 4,
+            "volume": 2.8583405633869923,
+            "weight": 33.12140337800923
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 333354029353,
+        "location": {
+            "address": "Camino de la Peralonso  (Arco Verde)",
+            "lat": 40.5933854,
+            "lon": -3.7506101
+        },
+        "order_id": "13522598-a48b-4e8d-9861-101c610a9c0f",
+        "order": {
+            "n_objects": 6,
+            "volume": 83.39794188199294,
+            "weight": 46.88256429308941
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 174076249643,
+        "location": {
+            "address": "Camino de Valtomelloso",
+            "lat": 40.5305751,
+            "lon": -3.7467722
+        },
+        "order_id": "1cddd353-088c-45b4-9c31-0eb8017dd0a6",
+        "order": {
+            "n_objects": 1,
+            "volume": 71.2504336356057,
+            "weight": 33.8292760585071
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 217992167237,
+        "location": {
+            "address": "Carretera de Fuencarral a El Pardo",
+            "lat": 40.50345471546283,
+            "lon": -3.714325961669884
+        },
+        "order_id": "f84cdae0-00fa-4df0-ae6a-0e422c55c0ad",
+        "order": {
+            "n_objects": 4,
+            "volume": 38.124200675957795,
+            "weight": 19.393677353666178
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 522778498586,
+        "location": {
+            "address": "Carretera de Somontes al Palacio de la Real Quinta",
+            "lat": 40.50551115,
+            "lon": -3.73726964491335
+        },
+        "order_id": "0b45bf94-7d8b-478b-bd8b-f12fe6ef1240",
+        "order": {
+            "n_objects": 5,
+            "volume": 22.00470925191808,
+            "weight": 37.95622828831354
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 732196582829,
+        "location": {
+            "address": "Calle Monte Alto",
+            "lat": 40.576700599999995,
+            "lon": -3.884909025905314
+        },
+        "order_id": "972e1ebc-57ea-4052-8edd-65eb596871eb",
+        "order": {
+            "n_objects": 2,
+            "volume": 87.95312859088617,
+            "weight": 21.551193670396984
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 16921253007,
+        "location": {
+            "address": NaN,
+            "lat": 40.544891,
+            "lon": -3.7823223
+        },
+        "order_id": "57c07e6c-9f9d-4fbd-924e-0256305625a9",
+        "order": {
+            "n_objects": 2,
+            "volume": 21.04318903176444,
+            "weight": 18.54958980189233
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 822273988265,
+        "location": {
+            "address": "Camino de Valdemilanos",
+            "lat": 40.6342926,
+            "lon": -3.654234
+        },
+        "order_id": "554e9cb3-ae6a-4ed9-9c64-1dd5878eddc7",
+        "order": {
+            "n_objects": 9,
+            "volume": 50.59145617381055,
+            "weight": 8.178790194231501
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 140636727134,
+        "location": {
+            "address": "Carretera de Torrelodones a El Pardo por Navachescas",
+            "lat": 40.540085125908966,
+            "lon": -3.838664514538787
+        },
+        "order_id": "f452bceb-6983-43cf-adf1-0df911e4401b",
+        "order": {
+            "n_objects": 5,
+            "volume": 86.10923488165972,
+            "weight": 4.666778977729792
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 320967173905,
+        "location": {
+            "address": NaN,
+            "lat": 40.5278241,
+            "lon": -3.8332217
+        },
+        "order_id": "22017301-1d76-42c3-abe2-6fbc9e2409cf",
+        "order": {
+            "n_objects": 8,
+            "volume": 32.16121821323996,
+            "weight": 7.856074346715656
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 331134944115,
+        "location": {
+            "address": NaN,
+            "lat": 40.5278241,
+            "lon": -3.8332217
+        },
+        "order_id": "43c382b4-dcfc-486e-91e9-5fa5af46b529",
+        "order": {
+            "n_objects": 2,
+            "volume": 88.5291645090038,
+            "weight": 29.329690725175663
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 726286653330,
+        "location": {
+            "address": NaN,
+            "lat": 40.5982312,
+            "lon": -3.7969721
+        },
+        "order_id": "01a49306-3bd5-4379-ba5f-0c5fd1e7ca82",
+        "order": {
+            "n_objects": 3,
+            "volume": 10.081075721832812,
+            "weight": 20.277477935099004
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 672509928569,
+        "location": {
+            "address": "Calle V\u00e9lez Blanco",
+            "lat": 40.47929234133379,
+            "lon": -3.6616421820723737
+        },
+        "order_id": "a9f74862-032c-45c6-b18e-5701b6cc4b62",
+        "order": {
+            "n_objects": 8,
+            "volume": 24.26462381422273,
+            "weight": 21.532227579464863
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 599226391777,
+        "location": {
+            "address": "Autopista Radial R-2",
+            "lat": 40.4993052868724,
+            "lon": -3.648657489377236
+        },
+        "order_id": "68f678a9-4ebb-4ed1-9145-40b61f74f7c2",
+        "order": {
+            "n_objects": 8,
+            "volume": 68.64104960642058,
+            "weight": 30.340484546861973
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 796747424583,
+        "location": {
+            "address": "Avenida de Logro\u00f1o",
+            "lat": 40.451715175744646,
+            "lon": -3.606853445392842
+        },
+        "order_id": "780bde04-1421-45ac-a260-e21311b09d7d",
+        "order": {
+            "n_objects": 1,
+            "volume": 3.9026135765881174,
+            "weight": 40.3568080327947
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 847959958477,
+        "location": {
+            "address": "Calle de Totana48",
+            "lat": 40.4735743,
+            "lon": -3.6537644
+        },
+        "order_id": "7478c26c-cc80-4940-948b-b18ad50e9c2e",
+        "order": {
+            "n_objects": 3,
+            "volume": 71.34738242259404,
+            "weight": 35.4446319677205
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 402765247282,
+        "location": {
+            "address": "Calle de Princesa de \u00c9boli2",
+            "lat": 40.4866195,
+            "lon": -3.6575108384905657
+        },
+        "order_id": "364a2f9b-a1cf-49ed-95dd-5d8aac8fb18c",
+        "order": {
+            "n_objects": 6,
+            "volume": 41.14132422663496,
+            "weight": 24.69114430425409
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 243867432524,
+        "location": {
+            "address": "M-40",
+            "lat": 40.50622058616825,
+            "lon": -3.650064378204808
+        },
+        "order_id": "85ed89c9-c20c-476e-a2fa-d10493c08faa",
+        "order": {
+            "n_objects": 4,
+            "volume": 19.866012906866988,
+            "weight": 32.17673055982975
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 870175028718,
+        "location": {
+            "address": "Camino de Montoro",
+            "lat": 40.48006787014593,
+            "lon": -3.632791251518374
+        },
+        "order_id": "c081947f-35d9-4761-93cd-637e57886f7a",
+        "order": {
+            "n_objects": 1,
+            "volume": 45.339823593047285,
+            "weight": 28.51427416627436
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 248437668947,
+        "location": {
+            "address": "Avenida de Manoteras",
+            "lat": 40.48738325,
+            "lon": -3.666322317025862
+        },
+        "order_id": "05ef358c-e6b4-42cd-8c9a-61fecee93026",
+        "order": {
+            "n_objects": 8,
+            "volume": 55.810455583162245,
+            "weight": 47.04950917285718
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 123030682007,
+        "location": {
+            "address": "Plaza del Alcalde Moreno Torres",
+            "lat": 40.488563799999994,
+            "lon": -3.656208476566128
+        },
+        "order_id": "e84d6867-ba4d-455c-b24c-737e18c7f53a",
+        "order": {
+            "n_objects": 8,
+            "volume": 4.884758680642157,
+            "weight": 41.40860263521543
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 523688723679,
+        "location": {
+            "address": "Calle Leira",
+            "lat": 40.465080914665165,
+            "lon": -3.652781638100432
+        },
+        "order_id": "f558f293-5937-4f8c-b3e4-5b41db23ab85",
+        "order": {
+            "n_objects": 2,
+            "volume": 57.243459524850564,
+            "weight": 47.74448951607834
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 635434791405,
+        "location": {
+            "address": NaN,
+            "lat": 40.5069687,
+            "lon": -3.6377047
+        },
+        "order_id": "34ef7d64-9d5a-4781-9470-fb2604f23ad0",
+        "order": {
+            "n_objects": 4,
+            "volume": 16.50728960721606,
+            "weight": 21.951465716555383
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 897406030915,
+        "location": {
+            "address": "Calle Zipaquira14",
+            "lat": 40.4728654,
+            "lon": -3.63438483045929
+        },
+        "order_id": "638e0a41-2f9e-45ca-ba9f-0f3478c52632",
+        "order": {
+            "n_objects": 9,
+            "volume": 34.83859311816864,
+            "weight": 48.649922162433285
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 899620298131,
+        "location": {
+            "address": "Calle Somont\u00edn",
+            "lat": 40.4766022938752,
+            "lon": -3.660872407660229
+        },
+        "order_id": "8c32d842-1c86-45e8-a3d6-62a249d4c386",
+        "order": {
+            "n_objects": 2,
+            "volume": 11.979247036548909,
+            "weight": 14.318275868708577
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 75234183020,
+        "location": {
+            "address": "Calle de Silvano26",
+            "lat": 40.4586833,
+            "lon": -3.6430528
+        },
+        "order_id": "e3a22368-a10c-4324-9487-53036f8a5062",
+        "order": {
+            "n_objects": 1,
+            "volume": 84.02013076078217,
+            "weight": 41.63402705918207
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 797407370411,
+        "location": {
+            "address": "Calle de Santa Virgilia21",
+            "lat": 40.47679264999999,
+            "lon": -3.6404631442859343
+        },
+        "order_id": "9f9cee30-6066-442d-a484-a9b25ce3d55b",
+        "order": {
+            "n_objects": 2,
+            "volume": 44.46919443037684,
+            "weight": 45.15548359120733
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 488627362385,
+        "location": {
+            "address": "Calle Ariadna",
+            "lat": 40.475595931300994,
+            "lon": -3.630957518348552
+        },
+        "order_id": "a681eb56-e623-4485-976e-05d97b736edd",
+        "order": {
+            "n_objects": 9,
+            "volume": 42.19247846028536,
+            "weight": 28.798730398953396
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 991539842189,
+        "location": {
+            "address": "Calle de Manuel Aza\u00f1a",
+            "lat": 40.4835714,
+            "lon": -3.6596378229431714
+        },
+        "order_id": "0e036822-ec5d-49be-821f-3d2c3c8e7c8f",
+        "order": {
+            "n_objects": 6,
+            "volume": 68.55047860462498,
+            "weight": 3.948803776846633
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 544727943348,
+        "location": {
+            "address": "Calle de Mar\u00eda Tudor16",
+            "lat": 40.4947499,
+            "lon": -3.6597095
+        },
+        "order_id": "5cc35cc8-d7f7-45a1-9272-1f6fa59b88b6",
+        "order": {
+            "n_objects": 4,
+            "volume": 78.73870379591376,
+            "weight": 17.85939474101204
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 693293520334,
+        "location": {
+            "address": "Calle de Mar\u00eda de las Mercedes de Borb\u00f3n",
+            "lat": 40.4896488,
+            "lon": -3.620256415059507
+        },
+        "order_id": "0009a789-8fc6-4474-aba6-60770b4972c5",
+        "order": {
+            "n_objects": 5,
+            "volume": 13.708632652139578,
+            "weight": 20.90033646973104
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 45507390526,
+        "location": {
+            "address": "Calle de Ur\u00eda",
+            "lat": 40.475943398602304,
+            "lon": -3.654191749169368
+        },
+        "order_id": "24e4ba4b-4f31-4c0d-a6d7-a21b2768c983",
+        "order": {
+            "n_objects": 2,
+            "volume": 21.03908297360098,
+            "weight": 16.122264394205896
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 113026084753,
+        "location": {
+            "address": "Calle San Enrique de Oss\u00f3",
+            "lat": 40.50529733455954,
+            "lon": -3.64241490334352
+        },
+        "order_id": "b8a03a46-f0de-42fd-9773-b84ab7bcdbb5",
+        "order": {
+            "n_objects": 2,
+            "volume": 62.663534256740746,
+            "weight": 11.731631202417867
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 866005973521,
+        "location": {
+            "address": "Autopista Radial R-2",
+            "lat": 40.49759692282462,
+            "lon": -3.644545669296389
+        },
+        "order_id": "6dddc3ce-e262-47a2-8b57-aa36b004556d",
+        "order": {
+            "n_objects": 7,
+            "volume": 4.640610777087802,
+            "weight": 24.086428303363355
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 533088707766,
+        "location": {
+            "address": "Calle del Pintor Lucio Mu\u00f1oz",
+            "lat": 40.48416766044764,
+            "lon": -3.6537906991575575
+        },
+        "order_id": "dcac6ec5-563f-4e05-b4b3-891c3a9d43b1",
+        "order": {
+            "n_objects": 4,
+            "volume": 20.990363015208366,
+            "weight": 12.708504677920175
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 695449194332,
+        "location": {
+            "address": "Avenida de Secundino Zuazo",
+            "lat": 40.49492751161687,
+            "lon": -3.611141101195233
+        },
+        "order_id": "df8627b3-4402-43ba-b086-fb695b6f7ff3",
+        "order": {
+            "n_objects": 7,
+            "volume": 64.88298564940767,
+            "weight": 45.20454344477215
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 503225607309,
+        "location": {
+            "address": "Autopista Radial R-2",
+            "lat": 40.503046543682736,
+            "lon": -3.607875225721968
+        },
+        "order_id": "f0ffc403-2f2f-43e7-93f0-7c1f5d92217f",
+        "order": {
+            "n_objects": 3,
+            "volume": 62.99838235189322,
+            "weight": 27.399031834906047
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 8549365111,
+        "location": {
+            "address": "Calle de Isabel Clara Eugenia",
+            "lat": 40.4852648,
+            "lon": -3.648884900000003
+        },
+        "order_id": "ee05913f-2283-48e3-b313-a8e6f7f9aadd",
+        "order": {
+            "n_objects": 8,
+            "volume": 83.35292253033663,
+            "weight": 38.1604522813798
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 558190505408,
+        "location": {
+            "address": "Calle de Fina de Calder\u00f3n18",
+            "lat": 40.494395,
+            "lon": -3.61722215
+        },
+        "order_id": "7a8f6e96-c15b-4602-af47-3102abc676b5",
+        "order": {
+            "n_objects": 3,
+            "volume": 71.75376672919975,
+            "weight": 32.045262338508635
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 959824134336,
+        "location": {
+            "address": "Calle de Manuel Aza\u00f1a",
+            "lat": 40.475966765345945,
+            "lon": -3.636895151066694
+        },
+        "order_id": "aa7b7ee8-05c3-4626-9d66-6f67c2ed958f",
+        "order": {
+            "n_objects": 5,
+            "volume": 69.08258664373665,
+            "weight": 21.07167101686379
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 576908781050,
+        "location": {
+            "address": "Calle del Tembleque58",
+            "lat": 40.394929899999994,
+            "lon": -3.761801859406862
+        },
+        "order_id": "1fe925c4-7e0a-4ee9-86cf-87ef97151a5f",
+        "order": {
+            "n_objects": 2,
+            "volume": 32.966820874806956,
+            "weight": 3.8059105121519767
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 170313728394,
+        "location": {
+            "address": "Calle de San Timoteo",
+            "lat": 40.4053203,
+            "lon": -3.735592196559181
+        },
+        "order_id": "80f2936d-01cd-4e60-af08-07bc637850d9",
+        "order": {
+            "n_objects": 4,
+            "volume": 63.60358703401328,
+            "weight": 12.001181137201652
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 669850705299,
+        "location": {
+            "address": "M-40",
+            "lat": 40.362382451623546,
+            "lon": -3.780152215256344
+        },
+        "order_id": "6d8d5519-3073-4ab1-a23e-394f45b73731",
+        "order": {
+            "n_objects": 5,
+            "volume": 59.361711376538544,
+            "weight": 12.055015461632136
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 939573952822,
+        "location": {
+            "address": NaN,
+            "lat": 40.3860197,
+            "lon": -3.8017945
+        },
+        "order_id": "4977b1a5-ffb1-417d-8010-bafea72023cc",
+        "order": {
+            "n_objects": 8,
+            "volume": 31.00162707738064,
+            "weight": 29.911285489654606
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 782163610295,
+        "location": {
+            "address": "Calle de los Y\u00e9benes",
+            "lat": 40.3901603,
+            "lon": -3.747511708591611
+        },
+        "order_id": "cc19ce01-a262-485b-9584-f7464be75e0d",
+        "order": {
+            "n_objects": 1,
+            "volume": 28.092091574254212,
+            "weight": 14.343149912467174
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 495555820770,
+        "location": {
+            "address": "Calle de Cullera",
+            "lat": 40.396716885063746,
+            "lon": -3.7512632181167023
+        },
+        "order_id": "3f878a0c-2cc1-4f87-9091-204cd9b8cefc",
+        "order": {
+            "n_objects": 3,
+            "volume": 70.19773228194344,
+            "weight": 48.59860425808807
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 914098073122,
+        "location": {
+            "address": "Calle de Sep\u00falveda",
+            "lat": 40.4054073,
+            "lon": -3.730481802800286
+        },
+        "order_id": "7220a049-0bc5-4e6a-bab3-3ff4d6eb9599",
+        "order": {
+            "n_objects": 9,
+            "volume": 1.0804752543312146,
+            "weight": 9.001647161616212
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 975134973152,
+        "location": {
+            "address": "Avenida de los Arqueros",
+            "lat": 40.38308895,
+            "lon": -3.802073997579366
+        },
+        "order_id": "fe0edeab-57cb-426c-82fd-861044d64424",
+        "order": {
+            "n_objects": 1,
+            "volume": 87.61444115039824,
+            "weight": 46.70574062728788
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 105237580338,
+        "location": {
+            "address": "Calle de Gordolobo",
+            "lat": 40.3898974,
+            "lon": -3.7707599
+        },
+        "order_id": "e9f7cc6b-23c9-4d43-b359-2342012e59f6",
+        "order": {
+            "n_objects": 9,
+            "volume": 39.69466200915788,
+            "weight": 20.051665918764993
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 595463566339,
+        "location": {
+            "address": "M-40",
+            "lat": 40.38475618608494,
+            "lon": -3.824127801168286
+        },
+        "order_id": "89d6adf1-2369-49fd-a2d9-fd9d08ae98fb",
+        "order": {
+            "n_objects": 3,
+            "volume": 64.56616247259275,
+            "weight": 18.501610659696052
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 59695168931,
+        "location": {
+            "address": "Calle de Illescas25",
+            "lat": 40.3967314,
+            "lon": -3.763920117922747
+        },
+        "order_id": "8150f257-8c52-466d-b05f-beb689b7b66c",
+        "order": {
+            "n_objects": 9,
+            "volume": 75.615466865331,
+            "weight": 5.150515913234234
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 207777515204,
+        "location": {
+            "address": "Calle de Riocabado2",
+            "lat": 40.4030053,
+            "lon": -3.7372578
+        },
+        "order_id": "8ab8f904-43dc-4d51-8b4c-93b044de4843",
+        "order": {
+            "n_objects": 6,
+            "volume": 13.678261167370913,
+            "weight": 47.175174486974946
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 916804327601,
+        "location": {
+            "address": "Paseo de los Olivos70",
+            "lat": 40.40587895,
+            "lon": -3.73815848399124
+        },
+        "order_id": "1a8b7fa8-5eff-4c8a-97aa-bb93227e182d",
+        "order": {
+            "n_objects": 9,
+            "volume": 61.74439426752541,
+            "weight": 30.1048736586674
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 122391491653,
+        "location": {
+            "address": "Vereda de Castilla",
+            "lat": 40.3828568,
+            "lon": -3.8242489
+        },
+        "order_id": "33cbe40f-a345-41ae-98b9-0ab675e9ae2e",
+        "order": {
+            "n_objects": 1,
+            "volume": 60.36740208303694,
+            "weight": 32.78559918208853
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 179376446594,
+        "location": {
+            "address": "Calle de Rodrigo de Arana",
+            "lat": 40.379873047300585,
+            "lon": -3.764848811610992
+        },
+        "order_id": "d362bd22-1379-4b15-86bd-af64174fedb7",
+        "order": {
+            "n_objects": 1,
+            "volume": 78.7446061302054,
+            "weight": 33.392056094765344
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 295168254744,
+        "location": {
+            "address": "M-40",
+            "lat": 40.372808441438025,
+            "lon": -3.8031211254565886
+        },
+        "order_id": "e496f020-5f7b-4161-bcb9-f7402945dcfe",
+        "order": {
+            "n_objects": 1,
+            "volume": 33.72506869459476,
+            "weight": 1.7986875360977836
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 434166264736,
+        "location": {
+            "address": "M-40",
+            "lat": 40.362314019345646,
+            "lon": -3.7837730681197
+        },
+        "order_id": "7529e0bb-25a3-47b9-82f3-ffbe593a2a88",
+        "order": {
+            "n_objects": 9,
+            "volume": 18.077669874382426,
+            "weight": 4.870570564508753
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 919215154583,
+        "location": {
+            "address": "Carretera del Barrio de la Fortuna",
+            "lat": 40.3700384,
+            "lon": -3.7782857
+        },
+        "order_id": "44faf128-54c7-46c5-8d07-410ca315d96c",
+        "order": {
+            "n_objects": 4,
+            "volume": 10.468277327796365,
+            "weight": 4.30454537125247
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 724291073932,
+        "location": {
+            "address": "M-40",
+            "lat": 40.378956073209245,
+            "lon": -3.8090323419202625
+        },
+        "order_id": "0c4a1eef-ec4c-4f99-bcef-dc1cb84c0e10",
+        "order": {
+            "n_objects": 8,
+            "volume": 20.94422671785984,
+            "weight": 43.62470924774089
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 347089026804,
+        "location": {
+            "address": "Calle de Higueras",
+            "lat": 40.40563280879019,
+            "lon": -3.7451863275289297
+        },
+        "order_id": "01047b57-8e95-4ac6-9c09-4335b3f9f711",
+        "order": {
+            "n_objects": 7,
+            "volume": 70.51628706969413,
+            "weight": 1.665195286264729
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 30182769221,
+        "location": {
+            "address": "Calle del Doctor Blanco Soler",
+            "lat": 40.3839633,
+            "lon": -3.770676214125669
+        },
+        "order_id": "adad8b98-70cb-4c37-9ad1-9fd04f258a32",
+        "order": {
+            "n_objects": 1,
+            "volume": 58.46237634305391,
+            "weight": 9.308739567786617
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 622254774882,
+        "location": {
+            "address": "Avenida de los Arqueros",
+            "lat": 40.38308895,
+            "lon": -3.802073997579366
+        },
+        "order_id": "b6c13453-f873-4b20-be53-120a1ab30159",
+        "order": {
+            "n_objects": 8,
+            "volume": 62.10111924806316,
+            "weight": 36.567473397627865
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 602337211226,
+        "location": {
+            "address": "Calle de Mauregato",
+            "lat": 40.41015603152342,
+            "lon": -3.735273026987244
+        },
+        "order_id": "8605fbcb-be96-4132-b3ed-728d4f748dd1",
+        "order": {
+            "n_objects": 2,
+            "volume": 64.36842041513854,
+            "weight": 8.481430512406316
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 131281492304,
+        "location": {
+            "address": "Calle del Pinar de San Jos\u00e998",
+            "lat": 40.36313615,
+            "lon": -3.773396371288738
+        },
+        "order_id": "51ac8c7a-1eb5-4608-bd77-e5c6aac8a3f7",
+        "order": {
+            "n_objects": 4,
+            "volume": 9.60376653447855,
+            "weight": 39.150763671104144
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 403316883694,
+        "location": {
+            "address": "Calle Sanchidri\u00e1n",
+            "lat": 40.396443255868675,
+            "lon": -3.7741646236588617
+        },
+        "order_id": "3e3d6cfa-7b38-4edf-adb5-db3b9d061dad",
+        "order": {
+            "n_objects": 5,
+            "volume": 12.496360933051436,
+            "weight": 29.265773731214118
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 521292575447,
+        "location": {
+            "address": "Calle Repull\u00e9s y Vargas11",
+            "lat": 40.4099562,
+            "lon": -3.7342021366424087
+        },
+        "order_id": "70bd1ce6-409d-4e21-a464-fb2f1f2f727c",
+        "order": {
+            "n_objects": 8,
+            "volume": 33.11205005591876,
+            "weight": 47.16406085507527
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 54324667616,
+        "location": {
+            "address": "Calle Granaderos",
+            "lat": 40.383982149999994,
+            "lon": -3.794204956218119
+        },
+        "order_id": "b5422c30-99f2-4df4-b84e-f0e454a8508a",
+        "order": {
+            "n_objects": 6,
+            "volume": 36.3825312985304,
+            "weight": 5.340619168590957
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 516944607921,
+        "location": {
+            "address": "Calle de Valmojado97",
+            "lat": 40.39436605,
+            "lon": -3.757743739238168
+        },
+        "order_id": "bd39ba61-3e34-48b0-892c-5f08919b387c",
+        "order": {
+            "n_objects": 8,
+            "volume": 33.65569670815854,
+            "weight": 34.09303490028674
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 97153812214,
+        "location": {
+            "address": "Calle de Jos\u00e9 de Cadalso",
+            "lat": 40.379109799999995,
+            "lon": -3.7682413254156577
+        },
+        "order_id": "584ef2ab-e146-40a0-8987-388c2c26cd3f",
+        "order": {
+            "n_objects": 9,
+            "volume": 54.79488155740012,
+            "weight": 14.534005787686633
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 597723399223,
+        "location": {
+            "address": "Calle Granaderos",
+            "lat": 40.386863950000006,
+            "lon": -3.784480755620452
+        },
+        "order_id": "4b39b560-6027-46f4-8c77-ee037ca91af5",
+        "order": {
+            "n_objects": 3,
+            "volume": 90.01738400282113,
+            "weight": 34.880441424421925
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 435978168315,
+        "location": {
+            "address": "Carretera del Barrio de la Fortuna",
+            "lat": 40.3672742,
+            "lon": -3.7785156
+        },
+        "order_id": "6702e6a1-af37-4cce-8cbc-72a317b8a42e",
+        "order": {
+            "n_objects": 8,
+            "volume": 58.1917171118417,
+            "weight": 20.11749825575144
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 429746348550,
+        "location": {
+            "address": "Anillo Verde Ciclista",
+            "lat": 40.441079838468816,
+            "lon": -3.7410386888511087
+        },
+        "order_id": "5e99da1b-1f7f-43e1-9593-ee03aa41620d",
+        "order": {
+            "n_objects": 1,
+            "volume": 10.464801579921323,
+            "weight": 9.825286749891553
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 888452725985,
+        "location": {
+            "address": "Calle General Cadenas Campos7",
+            "lat": 40.4596918,
+            "lon": -3.7137772
+        },
+        "order_id": "375fe628-af31-4aae-b101-6360b542ce72",
+        "order": {
+            "n_objects": 7,
+            "volume": 46.9213619159099,
+            "weight": 37.72083008034432
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 512839847692,
+        "location": {
+            "address": "Paseo Marqu\u00e9s de Monistrol",
+            "lat": 40.42269418281733,
+            "lon": -3.7271570985644216
+        },
+        "order_id": "00dec7c3-69eb-4d14-b70a-28357938764c",
+        "order": {
+            "n_objects": 6,
+            "volume": 24.55731010990999,
+            "weight": 24.77494039476663
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 599476967114,
+        "location": {
+            "address": "35",
+            "lat": 40.4546919,
+            "lon": -3.7293797
+        },
+        "order_id": "4601680e-30eb-4575-82f8-cb8b72ddf4ac",
+        "order": {
+            "n_objects": 9,
+            "volume": 33.59243177294995,
+            "weight": 23.837483977734447
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 312531458551,
+        "location": {
+            "address": "M-503",
+            "lat": 40.4477016,
+            "lon": -3.7665666
+        },
+        "order_id": "c3c564e8-12de-4a99-b4f4-6f83a6d92a1a",
+        "order": {
+            "n_objects": 9,
+            "volume": 40.05286916407703,
+            "weight": 23.0567450294787
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 731180269938,
+        "location": {
+            "address": "Paseo Pi\u00f1onero",
+            "lat": 40.4325895,
+            "lon": -3.7396327
+        },
+        "order_id": "897bdefa-3e7b-4c39-b5d1-b15fdc977787",
+        "order": {
+            "n_objects": 7,
+            "volume": 33.033739041147655,
+            "weight": 46.267734440152616
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 255133707626,
+        "location": {
+            "address": "Camino del Paso a Nivel",
+            "lat": 40.443649,
+            "lon": -3.7577581
+        },
+        "order_id": "66e3a591-b731-4778-9c30-9be817088acf",
+        "order": {
+            "n_objects": 7,
+            "volume": 79.00650545775181,
+            "weight": 8.517192059301935
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 204519908059,
+        "location": {
+            "address": "V\u00eda de acceso al Palacio de la Moncloa",
+            "lat": 40.44603755,
+            "lon": -3.7364980633204903
+        },
+        "order_id": "aa29a4b9-8eaf-481e-a3e5-2e6f5f46587a",
+        "order": {
+            "n_objects": 8,
+            "volume": 44.5025286561399,
+            "weight": 20.16753882713612
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 180175092183,
+        "location": {
+            "address": "Anillo Verde Ciclista",
+            "lat": 40.44744765,
+            "lon": -3.745398149180627
+        },
+        "order_id": "04b39cf6-28d2-4e15-9da1-881910200b52",
+        "order": {
+            "n_objects": 9,
+            "volume": 22.6804727651423,
+            "weight": 1.8294376241931705
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 523150138199,
+        "location": {
+            "address": "Acceso Parque de la Elipa6",
+            "lat": 40.41546405,
+            "lon": -3.653868130177558
+        },
+        "order_id": "47be268b-58da-4eac-a66a-83f6983f1cd2",
+        "order": {
+            "n_objects": 2,
+            "volume": 16.91430451752703,
+            "weight": 32.240320258838274
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 889528181525,
+        "location": {
+            "address": "Avenida de Moratalaz41",
+            "lat": 40.406637200000006,
+            "lon": -3.655163374074999
+        },
+        "order_id": "634286c3-4621-4d31-a8b2-74789b5416c1",
+        "order": {
+            "n_objects": 5,
+            "volume": 72.21937017628413,
+            "weight": 46.261933812659706
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 643143713667,
+        "location": {
+            "address": "Calle de Ober\u00f3n6",
+            "lat": 40.406238900000005,
+            "lon": -3.6358128714867624
+        },
+        "order_id": "2b9aaf46-b515-4f72-b9d3-e49379eace84",
+        "order": {
+            "n_objects": 6,
+            "volume": 69.5126580548699,
+            "weight": 14.202439884561397
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 99094407800,
+        "location": {
+            "address": "Sendero",
+            "lat": 40.41426009597434,
+            "lon": -3.6349315363352974
+        },
+        "order_id": "392fe007-1b5c-465b-8531-aa1b15af7edb",
+        "order": {
+            "n_objects": 8,
+            "volume": 30.621443530727365,
+            "weight": 20.06115312150634
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 988295047343,
+        "location": {
+            "address": "Calle del Arroyo de la Media Legua35",
+            "lat": 40.412086,
+            "lon": -3.6546637745138177
+        },
+        "order_id": "8deb312b-eec3-4a2d-bedd-07312ae5778e",
+        "order": {
+            "n_objects": 1,
+            "volume": 16.879906972532787,
+            "weight": 9.382831407368197
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 173414520554,
+        "location": {
+            "address": "Sendero",
+            "lat": 40.4134538,
+            "lon": -3.6336109
+        },
+        "order_id": "8174080c-eee4-46e4-8c13-d0c510873010",
+        "order": {
+            "n_objects": 9,
+            "volume": 14.314185429498757,
+            "weight": 22.269510294899405
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 934621973280,
+        "location": {
+            "address": "Plaza de Manuel de la Quintana",
+            "lat": 40.4090684,
+            "lon": -3.647040000506389
+        },
+        "order_id": "50f91b5f-8fd7-4d1b-aa76-6c7df50c27f9",
+        "order": {
+            "n_objects": 6,
+            "volume": 69.29359117186303,
+            "weight": 26.958975663976684
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 445627222741,
+        "location": {
+            "address": "M-40",
+            "lat": 40.40914667194359,
+            "lon": -3.6225272390948384
+        },
+        "order_id": "0b6b6617-f3fc-4784-b5ca-90f6e537ec83",
+        "order": {
+            "n_objects": 4,
+            "volume": 50.95908813568281,
+            "weight": 19.34246070617671
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 880075681659,
+        "location": {
+            "address": "Calle de Valdebernardo16",
+            "lat": 40.40225765,
+            "lon": -3.6302954522601807
+        },
+        "order_id": "8b06e8e9-cccf-45de-a37b-7e720d002f48",
+        "order": {
+            "n_objects": 7,
+            "volume": 10.558995922251153,
+            "weight": 20.933666244877617
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 316971198248,
+        "location": {
+            "address": "Calle del Corregidor Rodrigo Rodr\u00edguez5",
+            "lat": 40.40887315,
+            "lon": -3.6603446711652543
+        },
+        "order_id": "87dfc554-27e9-4f17-a4cb-4090fb5237fa",
+        "order": {
+            "n_objects": 7,
+            "volume": 48.19224219888997,
+            "weight": 24.909344740611797
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 803583477633,
+        "location": {
+            "address": "Avenida de Moratalaz86",
+            "lat": 40.406150499999995,
+            "lon": -3.6494648500000024
+        },
+        "order_id": "f2b6322e-fd49-4a9f-8adb-5d272a53881f",
+        "order": {
+            "n_objects": 8,
+            "volume": 92.39779252740468,
+            "weight": 6.626087010231574
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 276412233499,
+        "location": {
+            "address": "Calle del Camino de los Vinateros75",
+            "lat": 40.4101487,
+            "lon": -3.6502508
+        },
+        "order_id": "ef01d177-eed7-4b04-96ee-7be7bc2a1afe",
+        "order": {
+            "n_objects": 7,
+            "volume": 17.476150026042813,
+            "weight": 25.872166188137225
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 372810251858,
+        "location": {
+            "address": "Autov\u00eda del Este",
+            "lat": 40.40114294206298,
+            "lon": -3.649784143039154
+        },
+        "order_id": "3a729c8d-3ff2-4728-8bc2-c839d97be56d",
+        "order": {
+            "n_objects": 6,
+            "volume": 14.751953830445403,
+            "weight": 7.56629640971102
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 435237595523,
+        "location": {
+            "address": "Acceso Parque de la Elipa2",
+            "lat": 40.4164153,
+            "lon": -3.657450703462839
+        },
+        "order_id": "c40b7220-1aa2-4c8c-af2f-4759d013ea77",
+        "order": {
+            "n_objects": 1,
+            "volume": 2.4150658826328524,
+            "weight": 24.001984003827836
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 11757892548,
+        "location": {
+            "address": "Calle del Arroyo de la Media Legua27",
+            "lat": 40.4103834,
+            "lon": -3.656176630354574
+        },
+        "order_id": "b52e510d-a0ea-4013-ba2a-3b8dfa48a8d8",
+        "order": {
+            "n_objects": 3,
+            "volume": 63.95855043557864,
+            "weight": 33.112082740813705
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 323378592393,
+        "location": {
+            "address": "Calle de T\u00e1nger",
+            "lat": 40.383018775066816,
+            "lon": -3.650456068045723
+        },
+        "order_id": "ec1f6dfe-8ddf-453d-8d7e-70859f97e5ea",
+        "order": {
+            "n_objects": 9,
+            "volume": 62.09766501259424,
+            "weight": 32.37531092934212
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 13851106711,
+        "location": {
+            "address": "Calle Lago San Mart\u00edn",
+            "lat": 40.38255141900886,
+            "lon": -3.65031794314056
+        },
+        "order_id": "05b10429-5f2d-48ca-8a17-1455fc2f2895",
+        "order": {
+            "n_objects": 3,
+            "volume": 42.25720883857973,
+            "weight": 43.210296810274585
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 183969506359,
+        "location": {
+            "address": "Calle Alcal\u00e1 de Guadaira",
+            "lat": 40.3899338,
+            "lon": -3.657651465088008
+        },
+        "order_id": "6da2ba67-9b3e-4b8d-ae8d-4d612169bc94",
+        "order": {
+            "n_objects": 1,
+            "volume": 26.920429782561186,
+            "weight": 46.16147225506768
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 534572012415,
+        "location": {
+            "address": NaN,
+            "lat": 40.39506815841824,
+            "lon": -3.6632406913431046
+        },
+        "order_id": "747f9976-122e-472f-a36b-6c7dea065885",
+        "order": {
+            "n_objects": 5,
+            "volume": 73.63082351131382,
+            "weight": 36.58820850424116
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 403374266163,
+        "location": {
+            "address": "Calle del Puerto de Balbar\u00e1n",
+            "lat": 40.3771701,
+            "lon": -3.6586744028441
+        },
+        "order_id": "a66101ed-c0df-4905-abfe-a344aced76b4",
+        "order": {
+            "n_objects": 1,
+            "volume": 71.26537992742865,
+            "weight": 26.729137527995384
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 745523846567,
+        "location": {
+            "address": "Avenida de Entrev\u00edas42",
+            "lat": 40.38415895,
+            "lon": -3.670441311370128
+        },
+        "order_id": "3da70b40-c7d8-4257-8329-1058609b0a6a",
+        "order": {
+            "n_objects": 2,
+            "volume": 21.926456995373368,
+            "weight": 28.375858610700273
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 953081662277,
+        "location": {
+            "address": "Calle de Candilejas22",
+            "lat": 40.3851346,
+            "lon": -3.661594162360993
+        },
+        "order_id": "93e6835c-53ef-48c9-8295-62f8a7da2cb5",
+        "order": {
+            "n_objects": 5,
+            "volume": 39.641748089785075,
+            "weight": 1.2955964643364115
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 986923297349,
+        "location": {
+            "address": "Calle de Embajadores",
+            "lat": 40.3785695,
+            "lon": -3.684392862442265
+        },
+        "order_id": "e3965482-0ce5-47b0-9ca6-488bec0d58d5",
+        "order": {
+            "n_objects": 3,
+            "volume": 16.742254032441025,
+            "weight": 45.02576581065913
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 363927202720,
+        "location": {
+            "address": "Calle Ciento Cuatro",
+            "lat": 40.36458492901925,
+            "lon": -3.6692068437904304
+        },
+        "order_id": "24134914-28e4-4fa2-84e8-8e9c155d4b5c",
+        "order": {
+            "n_objects": 9,
+            "volume": 75.04252014686617,
+            "weight": 19.848997621694647
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 907382948687,
+        "location": {
+            "address": "Bypass Sur",
+            "lat": 40.3877038,
+            "lon": -3.678032880061616
+        },
+        "order_id": "02ef3e99-fcca-4b28-aa9d-0951bc9f4a0f",
+        "order": {
+            "n_objects": 6,
+            "volume": 15.936929528367205,
+            "weight": 28.713689706189747
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 71397702605,
+        "location": {
+            "address": "Calle Cangrejo",
+            "lat": 40.38181346033836,
+            "lon": -3.6308502832154934
+        },
+        "order_id": "f8fff10a-c602-4835-8b53-0e2ef20a55c5",
+        "order": {
+            "n_objects": 2,
+            "volume": 10.285856159270812,
+            "weight": 19.79239301261755
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 549177041452,
+        "location": {
+            "address": "Avenida de Rafael Alberti",
+            "lat": 40.3844945,
+            "lon": -3.6429301
+        },
+        "order_id": "e5853a51-bfa6-4eb0-bac6-963d0d8c8009",
+        "order": {
+            "n_objects": 7,
+            "volume": 78.21992540697813,
+            "weight": 1.9271934080061217
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 693099017238,
+        "location": {
+            "address": "Avenida de la Paz",
+            "lat": 40.38175471979713,
+            "lon": -3.687143660800049
+        },
+        "order_id": "2ee7d201-7cf1-4cfb-b156-c2c3edd37ca6",
+        "order": {
+            "n_objects": 1,
+            "volume": 61.475790087651085,
+            "weight": 14.145442891766818
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 386481330251,
+        "location": {
+            "address": "Calle el Escritor",
+            "lat": 40.390140599999995,
+            "lon": -3.6547227309998576
+        },
+        "order_id": "70bd4202-ac17-47e9-9400-412be43989c8",
+        "order": {
+            "n_objects": 3,
+            "volume": 66.19497439099176,
+            "weight": 9.787592618229445
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 23284429454,
+        "location": {
+            "address": "Calle del Campo de la Paloma26",
+            "lat": 40.3835526,
+            "lon": -3.64682765258216
+        },
+        "order_id": "ca259b02-b77a-44f1-92f9-b28856db55ef",
+        "order": {
+            "n_objects": 1,
+            "volume": 36.416515377664396,
+            "weight": 45.358009703591506
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 363502523835,
+        "location": {
+            "address": "Calle de Timoteo P\u00e9rez Rubio",
+            "lat": 40.38685878797098,
+            "lon": -3.673232832888212
+        },
+        "order_id": "a1d925e2-c76f-4cc6-b2b0-cfc5528a2ab9",
+        "order": {
+            "n_objects": 1,
+            "volume": 14.36005693182761,
+            "weight": 21.1097345403501
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 968789767671,
+        "location": {
+            "address": "Calle de San Claudio",
+            "lat": 40.38907491469357,
+            "lon": -3.636367100945945
+        },
+        "order_id": "608dabf7-e5bb-4c39-878d-9472c63cd9c2",
+        "order": {
+            "n_objects": 5,
+            "volume": 6.891823468694264,
+            "weight": 34.26743557760838
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 634051052252,
+        "location": {
+            "address": "Avenida de la Democracia15",
+            "lat": 40.3876918,
+            "lon": -3.6237961
+        },
+        "order_id": "e44f94fd-3d14-4b1b-8610-de7806905d31",
+        "order": {
+            "n_objects": 2,
+            "volume": 55.16679538590516,
+            "weight": 32.693785819690866
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 663600582596,
+        "location": {
+            "address": "Calle Benjam\u00edn Palencia",
+            "lat": 40.396294247434824,
+            "lon": -3.653459693661634
+        },
+        "order_id": "61af584e-da91-42a9-a0ca-6587362899ba",
+        "order": {
+            "n_objects": 9,
+            "volume": 66.58493956583051,
+            "weight": 15.353443247010283
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 607726933378,
+        "location": {
+            "address": "M-40",
+            "lat": 40.3635162115618,
+            "lon": -3.665758800579337
+        },
+        "order_id": "c2c465ea-50fb-4582-ad08-d92de5386429",
+        "order": {
+            "n_objects": 6,
+            "volume": 86.76449451743024,
+            "weight": 1.7763706319552934
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 975682492194,
+        "location": {
+            "address": "Calle Lago Maracaibo",
+            "lat": 40.38350477381755,
+            "lon": -3.650521069153099
+        },
+        "order_id": "622364c0-3cac-4240-9421-73a09cc7d236",
+        "order": {
+            "n_objects": 2,
+            "volume": 85.95905140049159,
+            "weight": 40.97423987697997
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 971078014441,
+        "location": {
+            "address": "Calle del Monte Perdido16",
+            "lat": 40.394104,
+            "lon": -3.671302638058125
+        },
+        "order_id": "e4c27293-8760-4c01-94a4-67bb5ad369f8",
+        "order": {
+            "n_objects": 4,
+            "volume": 35.47214563782847,
+            "weight": 3.864026205108472
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 222195508816,
+        "location": {
+            "address": "Calle de M\u00e9ndez N\u00fa\u00f1ez",
+            "lat": 40.41591890239609,
+            "lon": -3.689535693740575
+        },
+        "order_id": "7a49150b-7e03-4c5a-ac54-58005b8823da",
+        "order": {
+            "n_objects": 8,
+            "volume": 38.271101153433044,
+            "weight": 8.023847171194335
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 351731625697,
+        "location": {
+            "address": "Avenida de la Ciudad de Barcelona2",
+            "lat": 40.40590915,
+            "lon": -3.687053997864521
+        },
+        "order_id": "b9ce333c-27c1-42c6-b3ca-08913f907fd9",
+        "order": {
+            "n_objects": 9,
+            "volume": 44.88432557836576,
+            "weight": 4.653528780762887
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 301100044800,
+        "location": {
+            "address": "Calle de Vicente Caballero3",
+            "lat": 40.4197948,
+            "lon": -3.6681518
+        },
+        "order_id": "1efa1559-66b1-4514-ae15-0bafe731c59a",
+        "order": {
+            "n_objects": 7,
+            "volume": 1.3500239460572399,
+            "weight": 8.243878359576588
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 10740617368,
+        "location": {
+            "address": "Plaza del Doctor Laguna5",
+            "lat": 40.41570095,
+            "lon": -3.672595630128847
+        },
+        "order_id": "afbadd91-8fa9-4b68-8165-68df4c611d08",
+        "order": {
+            "n_objects": 9,
+            "volume": 22.320631223036404,
+            "weight": 31.917089042161873
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 102164534911,
+        "location": {
+            "address": "Plaza de Galicia",
+            "lat": 40.420260549999995,
+            "lon": -3.6835190616451343
+        },
+        "order_id": "6294e877-0a83-4a4e-8441-3e979bde146e",
+        "order": {
+            "n_objects": 9,
+            "volume": 47.3600754640713,
+            "weight": 38.59178914740522
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 172229459494,
+        "location": {
+            "address": "Paseo de Fern\u00e1n N\u00fa\u00f1ez",
+            "lat": 40.4117339734626,
+            "lon": -3.678996159714865
+        },
+        "order_id": "08ba536f-9fcc-46a9-860c-3663ca48a48a",
+        "order": {
+            "n_objects": 5,
+            "volume": 7.239052928953457,
+            "weight": 2.269601548662582
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 381395391144,
+        "location": {
+            "address": "Calle del Pez Austral",
+            "lat": 40.41136028021835,
+            "lon": -3.66589820457025
+        },
+        "order_id": "2238170f-481f-4eb7-b27a-1b2061e1cc53",
+        "order": {
+            "n_objects": 4,
+            "volume": 43.15544126565051,
+            "weight": 46.42862666782653
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 511961097752,
+        "location": {
+            "address": "Calle de Alfonso XI",
+            "lat": 40.4165692,
+            "lon": -3.690384492706556
+        },
+        "order_id": "deeed581-fdaf-4e0a-800e-1580d0df1038",
+        "order": {
+            "n_objects": 9,
+            "volume": 79.39960750233736,
+            "weight": 28.807070306715058
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 682209161395,
+        "location": {
+            "address": "Avenida de M\u00e9jico",
+            "lat": 40.41898105,
+            "lon": -3.6853181443172898
+        },
+        "order_id": "15bbbf03-11f5-48f8-bec9-2b1cd8fb8ca0",
+        "order": {
+            "n_objects": 3,
+            "volume": 91.46199934446213,
+            "weight": 32.39686843095164
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 955501678166,
+        "location": {
+            "address": "Calle Casado del Alisal16",
+            "lat": 40.4138618,
+            "lon": -3.6894207
+        },
+        "order_id": "58ec037a-6a12-40e3-857e-28455126d489",
+        "order": {
+            "n_objects": 8,
+            "volume": 86.19336282500463,
+            "weight": 21.30014685696305
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 250740662758,
+        "location": {
+            "address": "Paseo de Argentina",
+            "lat": 40.41631215,
+            "lon": -3.688540803251117
+        },
+        "order_id": "0ee28008-cfcb-4b74-b0b4-fa28f25e6c7e",
+        "order": {
+            "n_objects": 7,
+            "volume": 62.99649583231551,
+            "weight": 16.284328691712368
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 517572916646,
+        "location": {
+            "address": "Plaza del Maestro Villa",
+            "lat": 40.41947685,
+            "lon": -3.684983030765306
+        },
+        "order_id": "96126eab-be86-48af-acaf-2f9b58cb16f5",
+        "order": {
+            "n_objects": 5,
+            "volume": 8.23652255966682,
+            "weight": 48.75797280293479
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 216075796934,
+        "location": {
+            "address": "Calle de Sirio42",
+            "lat": 40.41067905,
+            "lon": -3.664270350537115
+        },
+        "order_id": "b80211ae-181d-4b05-afc6-788b4acbad95",
+        "order": {
+            "n_objects": 5,
+            "volume": 61.916539189424014,
+            "weight": 31.515906374014538
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 614731382199,
+        "location": {
+            "address": "Calle de Andr\u00e9s Torrej\u00f3n17",
+            "lat": 40.4078693,
+            "lon": -3.682509679032772
+        },
+        "order_id": "c9207cbc-cc23-42c7-be4f-737e1f5c0b14",
+        "order": {
+            "n_objects": 1,
+            "volume": 81.1734096997053,
+            "weight": 15.19722887870493
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 798541254215,
+        "location": {
+            "address": "Calzada lateral M-30",
+            "lat": 40.41520211199573,
+            "lon": -3.660608718478515
+        },
+        "order_id": "dba0d348-ab64-4707-8cba-ec2804943f4a",
+        "order": {
+            "n_objects": 4,
+            "volume": 87.10551707847027,
+            "weight": 22.543915282112014
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 343718888867,
+        "location": {
+            "address": "Avenida de la Paz",
+            "lat": 40.39637069611374,
+            "lon": -3.6711089809392594
+        },
+        "order_id": "fd3b41b8-26e2-4576-a5a1-f1115ad4a73e",
+        "order": {
+            "n_objects": 9,
+            "volume": 45.815901000797204,
+            "weight": 27.785397092711452
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 398073258398,
+        "location": {
+            "address": "Plaza Murillo2",
+            "lat": 40.411506849999995,
+            "lon": -3.690693144620107
+        },
+        "order_id": "fe5d4ba7-6275-49a9-b894-2ee3e29d7953",
+        "order": {
+            "n_objects": 4,
+            "volume": 86.36724180526141,
+            "weight": 29.539132597180156
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 566658708446,
+        "location": {
+            "address": "Calle de Fern\u00e1n Gonz\u00e1lez66",
+            "lat": 40.4174717,
+            "lon": -3.6748236
+        },
+        "order_id": "2bbf27e7-2420-48f5-8bb0-0eec855f8186",
+        "order": {
+            "n_objects": 7,
+            "volume": 73.70842402122099,
+            "weight": 12.593729549134173
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 795445420279,
+        "location": {
+            "address": "Calle de Serrano80",
+            "lat": 40.4311972,
+            "lon": -3.6866685
+        },
+        "order_id": "627861fe-b3da-462f-8711-a51b983496fc",
+        "order": {
+            "n_objects": 1,
+            "volume": 89.42358732202577,
+            "weight": 16.87401144730738
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 750850798648,
+        "location": {
+            "address": "Calle de Hermosilla55",
+            "lat": 40.4262769,
+            "lon": -3.6813119
+        },
+        "order_id": "57172b00-e5af-40a0-8ffd-184e4b3137e9",
+        "order": {
+            "n_objects": 6,
+            "volume": 34.414033005724626,
+            "weight": 14.47426141514086
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 974939956327,
+        "location": {
+            "address": "Calle del Alcalde S\u00e1inz de Baranda",
+            "lat": 40.42151875861668,
+            "lon": -3.659586307348824
+        },
+        "order_id": "00b52b70-4a8a-449c-8431-b28ab890801c",
+        "order": {
+            "n_objects": 7,
+            "volume": 47.20970368153705,
+            "weight": 29.154396779237576
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 215245503111,
+        "location": {
+            "address": "Calle del Pinar6A",
+            "lat": 40.4372385,
+            "lon": -3.6882497
+        },
+        "order_id": "9aea0191-1d56-45c7-a259-443f001ee4ac",
+        "order": {
+            "n_objects": 1,
+            "volume": 15.511698599005276,
+            "weight": 3.0788839081675947
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 833583248335,
+        "location": {
+            "address": "Paseo de la Castellana22",
+            "lat": 40.42993675,
+            "lon": -3.688164929399937
+        },
+        "order_id": "e655c0a5-e5cd-44f8-b21a-4d5e2dd1888b",
+        "order": {
+            "n_objects": 5,
+            "volume": 16.613183211154634,
+            "weight": 3.1968458967667557
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 593306288346,
+        "location": {
+            "address": "Calle de Luis Calvo",
+            "lat": 40.4355613,
+            "lon": -3.6649119
+        },
+        "order_id": "33e5be9c-6acf-4688-8933-6bb71ba2a4b8",
+        "order": {
+            "n_objects": 7,
+            "volume": 66.93229703786193,
+            "weight": 20.2783254634561
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 694309703248,
+        "location": {
+            "address": "Calle de Diego de Le\u00f3n",
+            "lat": 40.43527245,
+            "lon": -3.6786337264926625
+        },
+        "order_id": "75998ebb-9106-452a-a1f6-de640ffbac8c",
+        "order": {
+            "n_objects": 3,
+            "volume": 59.089309187797035,
+            "weight": 26.632082657434122
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 951178261305,
+        "location": {
+            "address": "Calle de Hermosilla20",
+            "lat": 40.4263401,
+            "lon": -3.6858367
+        },
+        "order_id": "0b6c4445-2933-485c-bb42-600c783a25f5",
+        "order": {
+            "n_objects": 4,
+            "volume": 17.814553845405147,
+            "weight": 6.812847226363862
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 827775561108,
+        "location": {
+            "address": "Calle de Alcal\u00e1167",
+            "lat": 40.4263379,
+            "lon": -3.672986861305147
+        },
+        "order_id": "0930df8d-734f-4612-9284-44f169ff18fe",
+        "order": {
+            "n_objects": 7,
+            "volume": 76.55258258226986,
+            "weight": 28.415953625479133
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 897578193409,
+        "location": {
+            "address": "Calle de Recoletos",
+            "lat": 40.4221513,
+            "lon": -3.6905695
+        },
+        "order_id": "79287c34-aa24-4d31-8362-21f13cd7aca7",
+        "order": {
+            "n_objects": 1,
+            "volume": 20.16222029092811,
+            "weight": 3.324174965744397
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 54793073157,
+        "location": {
+            "address": "Calle Francisco Lastres17",
+            "lat": 40.4244363,
+            "lon": -3.663637243059584
+        },
+        "order_id": "462831f1-1a30-4965-9030-88c917ef8612",
+        "order": {
+            "n_objects": 3,
+            "volume": 78.23150674988034,
+            "weight": 41.79167977841844
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 343366610960,
+        "location": {
+            "address": "Avenida de Bonn",
+            "lat": 40.438442658979355,
+            "lon": -3.66163005504066
+        },
+        "order_id": "87245f12-85be-490c-857e-947899a6cee5",
+        "order": {
+            "n_objects": 5,
+            "volume": 62.029031055842886,
+            "weight": 9.339172978454297
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 581875065310,
+        "location": {
+            "address": "Calle de Francisco Silvela",
+            "lat": 40.4352448,
+            "lon": -3.6755213
+        },
+        "order_id": "6ff09b49-e890-4793-ba55-03b89c9fa30d",
+        "order": {
+            "n_objects": 1,
+            "volume": 8.382204381593747,
+            "weight": 10.953374805147241
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 710741841267,
+        "location": {
+            "address": "Paseo de la Castellana",
+            "lat": 40.4288721150371,
+            "lon": -3.689174111000889
+        },
+        "order_id": "5e9abcb4-fbdc-4797-993f-fcd74a394e69",
+        "order": {
+            "n_objects": 3,
+            "volume": 88.11550285566626,
+            "weight": 43.44871630971194
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 809633186220,
+        "location": {
+            "address": "Calle de O'Donnell",
+            "lat": 40.4216623,
+            "lon": -3.670072493828396
+        },
+        "order_id": "25c99867-c745-4c71-886b-8da27c534546",
+        "order": {
+            "n_objects": 1,
+            "volume": 38.85219806658751,
+            "weight": 11.349501790286809
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 684559679500,
+        "location": {
+            "address": "Calle Condes de Torreanaz11",
+            "lat": 40.4218125,
+            "lon": -3.66764066377924
+        },
+        "order_id": "f0ccc163-9157-4966-92aa-9e40cd67dc00",
+        "order": {
+            "n_objects": 6,
+            "volume": 85.96855182738538,
+            "weight": 27.828799271446513
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 581052445066,
+        "location": {
+            "address": "Calle de la Povedilla10",
+            "lat": 40.42363495,
+            "lon": -3.669384136308542
+        },
+        "order_id": "da1f3023-aa70-40b4-ba47-d0cbe14e2f7b",
+        "order": {
+            "n_objects": 7,
+            "volume": 52.16584110566701,
+            "weight": 3.916356176399027
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 874074880385,
+        "location": {
+            "address": "Calle Samaniego",
+            "lat": 40.44273057620934,
+            "lon": -3.578425576152701
+        },
+        "order_id": "605a1549-6280-4ca7-9ec1-aec890e207ef",
+        "order": {
+            "n_objects": 6,
+            "volume": 2.082912677878533,
+            "weight": 4.409144031803109
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 115920498033,
+        "location": {
+            "address": "M-21",
+            "lat": 40.4402574201679,
+            "lon": -3.5700485752818043
+        },
+        "order_id": "baed202a-625f-4159-834c-5bd0186d7647",
+        "order": {
+            "n_objects": 6,
+            "volume": 62.92576343974617,
+            "weight": 1.335955203872784
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 599300851908,
+        "location": {
+            "address": "Carretera de Vic\u00e1lvaro a la Estaci\u00f3n de O'Donnell",
+            "lat": 40.43456286742713,
+            "lon": -3.580075150574758
+        },
+        "order_id": "39ef3009-dae8-4539-961a-50c435dacc63",
+        "order": {
+            "n_objects": 4,
+            "volume": 87.62162058243956,
+            "weight": 48.21620814834019
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 726283208726,
+        "location": {
+            "address": NaN,
+            "lat": 40.4126996,
+            "lon": -3.5908179
+        },
+        "order_id": "91b3a38d-e409-4986-9755-58e9d116fa87",
+        "order": {
+            "n_objects": 4,
+            "volume": 76.02648472676171,
+            "weight": 21.969924192108206
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 48968431105,
+        "location": {
+            "address": "Avenida de Arag\u00f3n",
+            "lat": 40.44735429252504,
+            "lon": -3.5522885288438655
+        },
+        "order_id": "28637f76-61bc-41f7-a601-828a6c6c275a",
+        "order": {
+            "n_objects": 1,
+            "volume": 66.3122756279428,
+            "weight": 7.4503051687205035
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 33075154054,
+        "location": {
+            "address": "Calle de Talia",
+            "lat": 40.445574,
+            "lon": -3.62034768701986
+        },
+        "order_id": "a4b16e2c-a48b-495f-ab01-a8016ba6d0d1",
+        "order": {
+            "n_objects": 6,
+            "volume": 24.587611173855,
+            "weight": 24.39210182117944
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 162977470040,
+        "location": {
+            "address": "Calle de Holanda3",
+            "lat": 40.4362666,
+            "lon": -3.5656271647272897
+        },
+        "order_id": "18dd69bb-cb07-48a6-9c34-6e0b5dabaac9",
+        "order": {
+            "n_objects": 8,
+            "volume": 76.28650850434578,
+            "weight": 31.67737145743369
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 578307189260,
+        "location": {
+            "address": NaN,
+            "lat": 40.412939708309345,
+            "lon": -3.586854809771674
+        },
+        "order_id": "86804eca-ffb0-47c8-96b8-b70c767f02a9",
+        "order": {
+            "n_objects": 5,
+            "volume": 97.49088003892972,
+            "weight": 45.42755121103167
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 761623976765,
+        "location": {
+            "address": NaN,
+            "lat": 40.43793829540512,
+            "lon": -3.6004564510749524
+        },
+        "order_id": "018b08b2-a649-41b6-999b-61fae18ded57",
+        "order": {
+            "n_objects": 6,
+            "volume": 36.55201564763188,
+            "weight": 26.559784616958996
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 629148858934,
+        "location": {
+            "address": "Calle de Austria2",
+            "lat": 40.4247373,
+            "lon": -3.6080368
+        },
+        "order_id": "2ac9dcdb-4d40-403c-802d-c5687bcace10",
+        "order": {
+            "n_objects": 9,
+            "volume": 89.16235499214838,
+            "weight": 30.66935390163632
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 366863707810,
+        "location": {
+            "address": "M-21",
+            "lat": 40.442400423302914,
+            "lon": -3.5500924937145175
+        },
+        "order_id": "6117bc5c-2f36-4814-8554-626f3f946859",
+        "order": {
+            "n_objects": 7,
+            "volume": 61.54372329619085,
+            "weight": 39.760935103093274
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 205346372604,
+        "location": {
+            "address": "Calle de Miguel Yuste14",
+            "lat": 40.4399232,
+            "lon": -3.6254751559121434
+        },
+        "order_id": "c3f311e3-64a6-43f2-bea1-be30cc7a27b3",
+        "order": {
+            "n_objects": 2,
+            "volume": 67.71583412131392,
+            "weight": 13.668682640264805
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 642486379938,
+        "location": {
+            "address": "Calle de Antioqu\u00eda",
+            "lat": 40.44299301759742,
+            "lon": -3.635688391769807
+        },
+        "order_id": "483d95e7-6896-4f13-95a8-32ffc914bcc2",
+        "order": {
+            "n_objects": 8,
+            "volume": 80.84433875917807,
+            "weight": 48.942572934792985
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 131664121698,
+        "location": {
+            "address": "M-21",
+            "lat": 40.44058538774062,
+            "lon": -3.579408986307536
+        },
+        "order_id": "5a7a7c24-367e-4153-8430-280fd432d078",
+        "order": {
+            "n_objects": 4,
+            "volume": 39.04291990088024,
+            "weight": 34.58836934433802
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 716966025911,
+        "location": {
+            "address": "M-40",
+            "lat": 40.43395843900959,
+            "lon": -3.594561386459013
+        },
+        "order_id": "8bb90100-4cfb-400b-993b-52dc3e98539e",
+        "order": {
+            "n_objects": 9,
+            "volume": 4.969467319060999,
+            "weight": 19.598606570872498
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 590109908045,
+        "location": {
+            "address": "Avenida de Arag\u00f3n",
+            "lat": 40.4493777,
+            "lon": -3.570814
+        },
+        "order_id": "4ea2c61a-6bce-4a4f-a627-c05322f890a8",
+        "order": {
+            "n_objects": 9,
+            "volume": 39.99980603097676,
+            "weight": 36.84763035302778
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 757198622126,
+        "location": {
+            "address": "Carretera de Vic\u00e1lvaro a la Estaci\u00f3n de O'Donnell",
+            "lat": 40.433194349999994,
+            "lon": -3.5784977251600925
+        },
+        "order_id": "0f6596f6-753e-4124-98bd-84778af96da2",
+        "order": {
+            "n_objects": 2,
+            "volume": 69.75336295245617,
+            "weight": 7.222883582896793
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 176530073711,
+        "location": {
+            "address": "Calle de Juli\u00e1n Camarillo30",
+            "lat": 40.43485375,
+            "lon": -3.6259354093946614
+        },
+        "order_id": "32b2a17c-1671-4e2c-81b7-fc5e32bc7f64",
+        "order": {
+            "n_objects": 3,
+            "volume": 71.52766987273883,
+            "weight": 3.8806696511391867
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 76992622374,
+        "location": {
+            "address": "Calle de Normand\u00eda",
+            "lat": 40.4347612,
+            "lon": -3.6092514
+        },
+        "order_id": "4225dff3-f832-4283-874f-c245d02b10a8",
+        "order": {
+            "n_objects": 4,
+            "volume": 9.730460417326029,
+            "weight": 2.891662778008824
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 935440216731,
+        "location": {
+            "address": NaN,
+            "lat": 40.41277517644286,
+            "lon": -3.5906879944871752
+        },
+        "order_id": "71e8b477-2323-4d91-8cc1-8ebb8ef29e35",
+        "order": {
+            "n_objects": 1,
+            "volume": 50.42236060532505,
+            "weight": 19.90585033073236
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 286166393722,
+        "location": {
+            "address": "Calle de Josefa Valc\u00e1rcel",
+            "lat": 40.4484918517217,
+            "lon": -3.635269957444008
+        },
+        "order_id": "a99506b4-be9c-49a0-95f1-1e40183d7766",
+        "order": {
+            "n_objects": 3,
+            "volume": 64.40666057123842,
+            "weight": 29.173200815603618
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 776873553401,
+        "location": {
+            "address": "Calle Diez",
+            "lat": 40.44540558249415,
+            "lon": -3.595965093884075
+        },
+        "order_id": "5a566641-9cc9-4ac5-b55f-15a24f9404b6",
+        "order": {
+            "n_objects": 7,
+            "volume": 54.574250922586295,
+            "weight": 35.820355116625926
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 182495357909,
+        "location": {
+            "address": "Avenida Hermanos Granda",
+            "lat": 40.44539689575274,
+            "lon": -3.560092448834182
+        },
+        "order_id": "cff76ef9-03f0-479c-b001-59f08127cfcb",
+        "order": {
+            "n_objects": 2,
+            "volume": 91.78192142464273,
+            "weight": 4.404916521266219
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 873841695001,
+        "location": {
+            "address": "M-21",
+            "lat": 40.44119894859276,
+            "lon": -3.589859110284814
+        },
+        "order_id": "0c6cab99-c3ee-43e1-8f32-4fc2fc34c851",
+        "order": {
+            "n_objects": 7,
+            "volume": 5.946017321309489,
+            "weight": 46.505567573807426
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 137456858111,
+        "location": {
+            "address": "Calle Zambrana",
+            "lat": 40.44765328356565,
+            "lon": -3.5799900790331054
+        },
+        "order_id": "d4fd9b78-5d73-4699-b716-c35394e286f5",
+        "order": {
+            "n_objects": 8,
+            "volume": 43.31935837432986,
+            "weight": 46.512692917443
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 49052985440,
+        "location": {
+            "address": "Camino del Chorrillo",
+            "lat": 40.46798845,
+            "lon": -3.7120253827744554
+        },
+        "order_id": "3b1ec92c-348d-4a55-b687-545c300b2ecb",
+        "order": {
+            "n_objects": 5,
+            "volume": 97.84908332177011,
+            "weight": 22.69349041404895
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 755006639613,
+        "location": {
+            "address": "Calle del Capit\u00e1n Blanco Argibay",
+            "lat": 40.4697985,
+            "lon": -3.7088829431607273
+        },
+        "order_id": "8fb93b24-6647-4450-acfe-c019e2c34a7c",
+        "order": {
+            "n_objects": 7,
+            "volume": 95.10272875497283,
+            "weight": 47.10665396804837
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 840287896176,
+        "location": {
+            "address": "Calle de San Benito30",
+            "lat": 40.4694209,
+            "lon": -3.6934998
+        },
+        "order_id": "0fb0b87e-1fab-4b28-a713-4949d1bfae3b",
+        "order": {
+            "n_objects": 3,
+            "volume": 51.54713584156872,
+            "weight": 36.80667087586932
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 997368938689,
+        "location": {
+            "address": "Paseo de la Direcci\u00f3n45",
+            "lat": 40.4593997,
+            "lon": -3.7090029
+        },
+        "order_id": "d512f853-18a3-4f45-869a-dde1265fab7e",
+        "order": {
+            "n_objects": 3,
+            "volume": 89.11863735843372,
+            "weight": 37.06701863334871
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 381687741941,
+        "location": {
+            "address": "Calle V\u00eda L\u00edmite14",
+            "lat": 40.473296649999995,
+            "lon": -3.697250767079569
+        },
+        "order_id": "ac8c8ef2-25e7-4ffd-9b75-049fe7003318",
+        "order": {
+            "n_objects": 4,
+            "volume": 22.549299369157342,
+            "weight": 12.17194918820752
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 721875381418,
+        "location": {
+            "address": "Calle de \u00c1vila15",
+            "lat": 40.45285315,
+            "lon": -3.701451614656638
+        },
+        "order_id": "96f24635-17f4-4fee-8c2a-aecd0b5a155e",
+        "order": {
+            "n_objects": 8,
+            "volume": 23.464199266191365,
+            "weight": 16.95237704627965
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 986472501394,
+        "location": {
+            "address": "Paseo de la Direcci\u00f3n",
+            "lat": 40.4718867,
+            "lon": -3.7024838
+        },
+        "order_id": "e39aead0-d620-4aee-be8a-4fe09ce3d0a3",
+        "order": {
+            "n_objects": 2,
+            "volume": 60.64466353496027,
+            "weight": 24.222572199500284
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 116613041810,
+        "location": {
+            "address": "Calle de Alonso N\u00fa\u00f1ez3",
+            "lat": 40.4585596,
+            "lon": -3.7072384
+        },
+        "order_id": "7cf1c551-c4c3-45b3-8657-327a42546ac6",
+        "order": {
+            "n_objects": 3,
+            "volume": 79.39387281735499,
+            "weight": 32.68222598128703
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 287510477929,
+        "location": {
+            "address": "Calle de Bardala",
+            "lat": 40.466126376063,
+            "lon": -3.699788265179078
+        },
+        "order_id": "3a847ca0-82bc-48d9-9b01-47f1a7b65c23",
+        "order": {
+            "n_objects": 4,
+            "volume": 2.140113762418766,
+            "weight": 1.047116832811614
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 971923832073,
+        "location": {
+            "address": "Calle de San Germ\u00e1n30",
+            "lat": 40.4565647,
+            "lon": -3.6956012030455265
+        },
+        "order_id": "04d09d71-eab2-4705-855b-00210a034d5c",
+        "order": {
+            "n_objects": 9,
+            "volume": 97.71758724090255,
+            "weight": 25.558684901440383
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 631365841130,
+        "location": {
+            "address": "Calle de Fereluz",
+            "lat": 40.4634858,
+            "lon": -3.701408256282317
+        },
+        "order_id": "a3a4d0cc-a0aa-499c-9096-a5cce728b523",
+        "order": {
+            "n_objects": 3,
+            "volume": 66.40100096355266,
+            "weight": 2.0032713820324006
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 30978845497,
+        "location": {
+            "address": "Calle de Miosotis46D",
+            "lat": 40.4651864,
+            "lon": -3.7018604
+        },
+        "order_id": "537b11bb-a94d-48de-b445-90c70b51b891",
+        "order": {
+            "n_objects": 3,
+            "volume": 3.426392433793305,
+            "weight": 7.406812806200998
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 83965147840,
+        "location": {
+            "address": "Calle del Capit\u00e1n Blanco Argibay65",
+            "lat": 40.4661064,
+            "lon": -3.7016059
+        },
+        "order_id": "a4f18bfc-6190-4c4d-b0c9-4f9a4f1efac5",
+        "order": {
+            "n_objects": 7,
+            "volume": 96.16208579996889,
+            "weight": 45.71149866593307
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 495486088548,
+        "location": {
+            "address": "Calle del Capit\u00e1n Blanco Argibay",
+            "lat": 40.46959364999999,
+            "lon": -3.710971599095859
+        },
+        "order_id": "e95ea41f-4ae0-4c5a-9564-683705df3962",
+        "order": {
+            "n_objects": 1,
+            "volume": 99.58556563614003,
+            "weight": 16.01941793726262
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 170355802018,
+        "location": {
+            "address": "Calle Nen\u00fafar33",
+            "lat": 40.4628658,
+            "lon": -3.7042715
+        },
+        "order_id": "53682dfd-4ff4-4132-9168-5ab583383d14",
+        "order": {
+            "n_objects": 4,
+            "volume": 27.572359103578005,
+            "weight": 26.41678676931188
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 735426523747,
+        "location": {
+            "address": "Calle de Beire25",
+            "lat": 40.4510453,
+            "lon": -3.7079927
+        },
+        "order_id": "a7ad7ecf-6a0d-47a1-8458-279a778d627a",
+        "order": {
+            "n_objects": 5,
+            "volume": 30.942596894206286,
+            "weight": 14.278745973408503
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 287807395823,
+        "location": {
+            "address": "Calle V\u00eda L\u00edmite",
+            "lat": 40.4736066,
+            "lon": -3.692861618752468
+        },
+        "order_id": "fbedf9e3-3d78-4b5b-897f-395201ca8380",
+        "order": {
+            "n_objects": 8,
+            "volume": 74.49735610821921,
+            "weight": 27.4421240212535
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 560649657799,
+        "location": {
+            "address": NaN,
+            "lat": 40.4481345,
+            "lon": -3.705229504206406
+        },
+        "order_id": "f8eb67a4-68d0-4dc0-99ae-e9745f0ce256",
+        "order": {
+            "n_objects": 4,
+            "volume": 59.4947960031395,
+            "weight": 11.467399182036539
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 200865244239,
+        "location": {
+            "address": "Carril bici del Paseo de la Castellana",
+            "lat": 40.4593406,
+            "lon": -3.6908945815215057
+        },
+        "order_id": "45148d4b-9fce-4c6c-bf0a-079272c2e32a",
+        "order": {
+            "n_objects": 6,
+            "volume": 9.170336154079155,
+            "weight": 49.31628165565284
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 402292314445,
+        "location": {
+            "address": "Calle del Cristo de la Victoria33",
+            "lat": 40.38034605,
+            "lon": -3.702514960817907
+        },
+        "order_id": "179c4422-0235-4f34-93a0-0a29128ff112",
+        "order": {
+            "n_objects": 1,
+            "volume": 25.167819110485258,
+            "weight": 12.998406043437221
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 961261802934,
+        "location": {
+            "address": "Calle del Camino Viejo de Villaverde1",
+            "lat": 40.3720462,
+            "lon": -3.709871225
+        },
+        "order_id": "8f5e2953-1c78-45bd-8936-4ae4cd3bb7ed",
+        "order": {
+            "n_objects": 2,
+            "volume": 58.79018152861858,
+            "weight": 9.903117464465112
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 606674336407,
+        "location": {
+            "address": "Calle del Simca",
+            "lat": 40.36647931952601,
+            "lon": -3.7106994834909384
+        },
+        "order_id": "88539d6b-3146-432c-803b-2b71d3ab0916",
+        "order": {
+            "n_objects": 2,
+            "volume": 48.081404036422605,
+            "weight": 5.861670938521368
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 172429012576,
+        "location": {
+            "address": "Camino de Perales",
+            "lat": 40.371540368474285,
+            "lon": -3.688135447638213
+        },
+        "order_id": "5391710f-3829-4d48-b2da-d894e9bc89e4",
+        "order": {
+            "n_objects": 2,
+            "volume": 24.006865861139865,
+            "weight": 32.48653803345734
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 8129691064,
+        "location": {
+            "address": "Calle Pradolongo",
+            "lat": 40.367683695558185,
+            "lon": -3.709119827169085
+        },
+        "order_id": "52ba36f1-9063-40da-ac44-c1743e342a9d",
+        "order": {
+            "n_objects": 1,
+            "volume": 40.357975526482214,
+            "weight": 28.67650698102806
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 564145293052,
+        "location": {
+            "address": "Calle del Cristo de la Victoria",
+            "lat": 40.3793012,
+            "lon": -3.7025471
+        },
+        "order_id": "c222eb42-f900-4dea-8bcd-32701a5dadbb",
+        "order": {
+            "n_objects": 3,
+            "volume": 59.707594632312635,
+            "weight": 2.5754531012594226
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 76078416227,
+        "location": {
+            "address": "Avenida de Andaluc\u00eda",
+            "lat": 40.37399920637347,
+            "lon": -3.700710690022692
+        },
+        "order_id": "14862808-d7f3-4ae8-8fbd-82c8dffa1d2a",
+        "order": {
+            "n_objects": 9,
+            "volume": 76.99427986371154,
+            "weight": 24.658236710571607
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 356233745476,
+        "location": {
+            "address": "Calle de Gainza",
+            "lat": 40.37234192424921,
+            "lon": -3.7163916181917225
+        },
+        "order_id": "b6b73886-3d84-4b47-aa09-46998ebcebd2",
+        "order": {
+            "n_objects": 3,
+            "volume": 19.297634467164006,
+            "weight": 23.268914466870566
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 799659735731,
+        "location": {
+            "address": "Calle de la Silvina",
+            "lat": 40.3650628255169,
+            "lon": -3.6913190787924095
+        },
+        "order_id": "d610696b-52d5-493e-993f-6a60645b657e",
+        "order": {
+            "n_objects": 4,
+            "volume": 54.45251292059791,
+            "weight": 14.120096807047961
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 35493087132,
+        "location": {
+            "address": "Avenida del Manzanares210",
+            "lat": 40.39082085,
+            "lon": -3.701449024346223
+        },
+        "order_id": "d8d2f908-a9bd-4b52-becc-4d1f6c0580f4",
+        "order": {
+            "n_objects": 2,
+            "volume": 3.3420601059074686,
+            "weight": 44.800401139656195
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 256890071374,
+        "location": {
+            "address": "Calle de la Participaci\u00f3n3",
+            "lat": 40.3709788,
+            "lon": -3.7099634749350647
+        },
+        "order_id": "6f279603-6da0-42c4-a6bb-7f0edc3f002d",
+        "order": {
+            "n_objects": 5,
+            "volume": 93.32951596507921,
+            "weight": 25.81144048523864
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 620980070448,
+        "location": {
+            "address": "Calle de Guetaria",
+            "lat": 40.3761877,
+            "lon": -3.7135978379347874
+        },
+        "order_id": "1e5a6d4b-7fe0-4450-80c6-d9d5e090278a",
+        "order": {
+            "n_objects": 1,
+            "volume": 32.82548167793886,
+            "weight": 16.28752663176122
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 644580091985,
+        "location": {
+            "address": "Calle de Ricardo Beltr\u00e1n y R\u00f3zpide",
+            "lat": 40.38229173749797,
+            "lon": -3.7174020456805863
+        },
+        "order_id": "a66b9d26-f91f-4fc0-a60c-d066ac33f9fd",
+        "order": {
+            "n_objects": 3,
+            "volume": 19.650440996755638,
+            "weight": 23.206491033674993
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 103422613275,
+        "location": {
+            "address": "Glorieta de M\u00e1laga",
+            "lat": 40.376110621659095,
+            "lon": -3.6957285101492094
+        },
+        "order_id": "6a66a7bc-19df-4e0d-9fa4-d1156342dd99",
+        "order": {
+            "n_objects": 4,
+            "volume": 91.70541331174668,
+            "weight": 45.23298497132382
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 611030262231,
+        "location": {
+            "address": "Calle de Guetaria",
+            "lat": 40.3761877,
+            "lon": -3.7135978379347874
+        },
+        "order_id": "4f8850ae-1cd4-4f27-bf3b-b8f7c4467724",
+        "order": {
+            "n_objects": 4,
+            "volume": 50.98177571143825,
+            "weight": 18.33969736716514
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 719313308091,
+        "location": {
+            "address": "Calle de Albaic\u00edn",
+            "lat": 40.36812395,
+            "lon": -3.702274304133748
+        },
+        "order_id": "03d00bd3-7295-40c1-8a07-f89e53805dd5",
+        "order": {
+            "n_objects": 7,
+            "volume": 48.31046167496469,
+            "weight": 47.37247802288339
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 59134076370,
+        "location": {
+            "address": "Calle de Antonio L\u00f3pez",
+            "lat": 40.38301525,
+            "lon": -3.6962736179719298
+        },
+        "order_id": "6fc5d111-453d-427a-a40b-9189e3744939",
+        "order": {
+            "n_objects": 3,
+            "volume": 49.16005710816244,
+            "weight": 25.50231994121106
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 865706346728,
+        "location": {
+            "address": "Camino de Perales",
+            "lat": 40.36826975,
+            "lon": -3.684099814491524
+        },
+        "order_id": "39375270-ec44-499f-82f8-64bea22f5d34",
+        "order": {
+            "n_objects": 3,
+            "volume": 83.00990336092312,
+            "weight": 30.489786124878403
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 705790566319,
+        "location": {
+            "address": "Calle del Alerce",
+            "lat": 40.3656936,
+            "lon": -3.6950709
+        },
+        "order_id": "ada1264d-abeb-44f3-92cc-fe7a069c06b2",
+        "order": {
+            "n_objects": 7,
+            "volume": 71.07294877625309,
+            "weight": 15.646278104114845
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 875468033809,
+        "location": {
+            "address": "Calle de Alajate",
+            "lat": 40.369653792837504,
+            "lon": -3.691548177018939
+        },
+        "order_id": "8bccb6cf-8e4f-43bf-8b90-20138c1edc30",
+        "order": {
+            "n_objects": 4,
+            "volume": 29.654719365916506,
+            "weight": 2.0848387372186417
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 456932038626,
+        "location": {
+            "address": "Pasarela Parque Manzanares Sur",
+            "lat": 40.38078475512534,
+            "lon": -3.691426850177527
+        },
+        "order_id": "fc70d345-9a61-4c1a-9319-d59ab1c56172",
+        "order": {
+            "n_objects": 4,
+            "volume": 25.665559276503632,
+            "weight": 24.146098842970574
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 552345135564,
+        "location": {
+            "address": NaN,
+            "lat": 40.3875652,
+            "lon": -3.5671035
+        },
+        "order_id": "07986818-6f56-4a33-98cf-c8b74ef70cba",
+        "order": {
+            "n_objects": 3,
+            "volume": 57.89843579266855,
+            "weight": 21.769631845940058
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 69623326733,
+        "location": {
+            "address": "Avenida Provisional Gran V\u00eda de Vic\u00e1lvaro",
+            "lat": 40.398714823553014,
+            "lon": -3.554846516647363
+        },
+        "order_id": "1adb0a43-f9e6-4333-b778-9abb51d36b86",
+        "order": {
+            "n_objects": 2,
+            "volume": 1.8123960773791712,
+            "weight": 10.137583809662281
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 622313138121,
+        "location": {
+            "address": "M-823",
+            "lat": 40.38771848514879,
+            "lon": -3.5487182515528137
+        },
+        "order_id": "d1c3e47a-20b3-4aa3-be6f-956025fb3ef4",
+        "order": {
+            "n_objects": 1,
+            "volume": 13.788787386546234,
+            "weight": 18.598896950011955
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 65970272219,
+        "location": {
+            "address": NaN,
+            "lat": 40.36334311289858,
+            "lon": -3.572270913815231
+        },
+        "order_id": "8797dd70-3634-465b-bb59-d9b443b4357c",
+        "order": {
+            "n_objects": 7,
+            "volume": 49.520986161860314,
+            "weight": 27.85011833118527
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 112654782735,
+        "location": {
+            "address": "Calle del Cerro Almod\u00f3var",
+            "lat": 40.386093,
+            "lon": -3.5982238
+        },
+        "order_id": "f20f3946-c000-411a-8d63-d134a896ef94",
+        "order": {
+            "n_objects": 9,
+            "volume": 78.96945834006269,
+            "weight": 12.972818170080217
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 603459795837,
+        "location": {
+            "address": NaN,
+            "lat": 40.4026444,
+            "lon": -3.530207
+        },
+        "order_id": "811ee17a-ff37-49e9-a8d9-d144b32da44d",
+        "order": {
+            "n_objects": 7,
+            "volume": 18.82645864203892,
+            "weight": 28.31909149875319
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 220717116401,
+        "location": {
+            "address": "Calle del Alcalde Pedro Guti\u00e9rrez",
+            "lat": 40.3982641,
+            "lon": -3.5448497
+        },
+        "order_id": "6efc43ae-d0fe-4829-92da-dc93eaa0d2d1",
+        "order": {
+            "n_objects": 5,
+            "volume": 35.85116379261827,
+            "weight": 48.167452966622996
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 110282920655,
+        "location": {
+            "address": "Radial 3",
+            "lat": 40.39873274970252,
+            "lon": -3.5675779150308085
+        },
+        "order_id": "b523a83a-beb4-40dd-911e-6f37ce648817",
+        "order": {
+            "n_objects": 2,
+            "volume": 72.35904035820442,
+            "weight": 35.56622338889141
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 65002235050,
+        "location": {
+            "address": NaN,
+            "lat": 40.40972463410552,
+            "lon": -3.5675913039575455
+        },
+        "order_id": "4e68c354-9403-4d82-b92d-8107779be494",
+        "order": {
+            "n_objects": 1,
+            "volume": 2.4881121902473025,
+            "weight": 37.687997760535595
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 17446513110,
+        "location": {
+            "address": "Radial 3",
+            "lat": 40.39455639641377,
+            "lon": -3.536246306587574
+        },
+        "order_id": "aaccfe75-6556-460b-b15a-b49688b4199e",
+        "order": {
+            "n_objects": 2,
+            "volume": 37.5159572717772,
+            "weight": 19.323656651054076
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 550564537577,
+        "location": {
+            "address": NaN,
+            "lat": 40.3808615684272,
+            "lon": -3.577457287639841
+        },
+        "order_id": "8cb8ff2b-bf8d-45ff-a990-4c43e9697ec6",
+        "order": {
+            "n_objects": 9,
+            "volume": 65.48323804900478,
+            "weight": 11.66542545973406
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 527561106085,
+        "location": {
+            "address": "M-4526",
+            "lat": 40.4086187,
+            "lon": -3.5362694
+        },
+        "order_id": "d7e39a5f-1184-4337-958d-f6d81b8adcdf",
+        "order": {
+            "n_objects": 6,
+            "volume": 79.2278536443121,
+            "weight": 2.4361809456412984
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 347277129673,
+        "location": {
+            "address": "Ca\u00f1ada Real de Merinas",
+            "lat": 40.3996937,
+            "lon": -3.543187
+        },
+        "order_id": "e81668af-c11b-4037-b6ea-0f39498613aa",
+        "order": {
+            "n_objects": 4,
+            "volume": 22.938149186197407,
+            "weight": 38.108538313366836
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 693017361836,
+        "location": {
+            "address": "Calle Dehesa Vieja",
+            "lat": 40.39104184999999,
+            "lon": -3.5847982503159592
+        },
+        "order_id": "8e823fa3-8553-4fc4-9c5b-b9bae5cd062f",
+        "order": {
+            "n_objects": 7,
+            "volume": 6.65758608418875,
+            "weight": 28.370063367545125
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 101919609374,
+        "location": {
+            "address": "Avenida Aurora Boreal",
+            "lat": 40.4002689,
+            "lon": -3.610875179387552
+        },
+        "order_id": "3973f577-d626-4c18-8f7d-404f8ca29f6f",
+        "order": {
+            "n_objects": 1,
+            "volume": 85.40696686446064,
+            "weight": 6.07716287456819
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 164049968203,
+        "location": {
+            "address": NaN,
+            "lat": 40.365308785086626,
+            "lon": -3.570236335452712
+        },
+        "order_id": "80d0cce0-9244-4985-91b2-e5e41518f96a",
+        "order": {
+            "n_objects": 5,
+            "volume": 31.61903799150594,
+            "weight": 39.24830988303606
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 554904523799,
+        "location": {
+            "address": "Eje Sureste",
+            "lat": 40.3381824,
+            "lon": -3.6279011
+        },
+        "order_id": "08d110d1-8513-4653-ae64-f1e1d0fba241",
+        "order": {
+            "n_objects": 9,
+            "volume": 94.52764161066001,
+            "weight": 25.893514115282144
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 6583291222,
+        "location": {
+            "address": "Calle del Puerto del Bruch31",
+            "lat": 40.382022,
+            "lon": -3.618395697310312
+        },
+        "order_id": "39c15198-015a-4b9b-92cd-9244f210ae53",
+        "order": {
+            "n_objects": 2,
+            "volume": 86.93446945530903,
+            "weight": 4.134427243862513
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 465183931958,
+        "location": {
+            "address": "M-45",
+            "lat": 40.34914752700953,
+            "lon": -3.644168416117728
+        },
+        "order_id": "4cbf7d16-43ac-47de-ae02-d3c5e8c1455e",
+        "order": {
+            "n_objects": 1,
+            "volume": 97.65759357002173,
+            "weight": 8.584280187195617
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 405859604272,
+        "location": {
+            "address": NaN,
+            "lat": 40.36033360671161,
+            "lon": -3.591900510037598
+        },
+        "order_id": "8ea6c1f1-65fb-43c6-ae6a-a33f64185706",
+        "order": {
+            "n_objects": 2,
+            "volume": 92.13079835727532,
+            "weight": 14.851835851202713
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 942230535636,
+        "location": {
+            "address": "Carretera de acceso al Parque Tecnol\u00f3gico de Valdeming\u00f3mez",
+            "lat": 40.3333472,
+            "lon": -3.587081078164742
+        },
+        "order_id": "83c065a1-62c4-4a10-8fc3-427ad6f9fdd5",
+        "order": {
+            "n_objects": 8,
+            "volume": 85.9338654284598,
+            "weight": 25.73528694636375
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 947587115063,
+        "location": {
+            "address": "Avenida del Cerro Milano",
+            "lat": 40.3569584,
+            "lon": -3.5853431
+        },
+        "order_id": "1700c6d6-1cd3-480e-b4cb-d80534bfa20c",
+        "order": {
+            "n_objects": 5,
+            "volume": 73.33778701897293,
+            "weight": 17.275601511784796
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 809266604650,
+        "location": {
+            "address": "Ca\u00f1ada Real Galiana",
+            "lat": 40.3214793,
+            "lon": -3.6041935
+        },
+        "order_id": "18b6e504-5e43-4baa-8220-406a63f511d3",
+        "order": {
+            "n_objects": 5,
+            "volume": 40.2670807932109,
+            "weight": 23.09663443199662
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 647509934107,
+        "location": {
+            "address": "M-451",
+            "lat": 40.34938575,
+            "lon": -3.661105707181064
+        },
+        "order_id": "dc45370d-dbeb-4ac4-b3da-0616e48ecba5",
+        "order": {
+            "n_objects": 6,
+            "volume": 66.03019028002467,
+            "weight": 36.24548279642043
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 193724246094,
+        "location": {
+            "address": "Avenida de los Rosales399",
+            "lat": 40.33170515,
+            "lon": -3.660349494062209
+        },
+        "order_id": "baee3ded-dea2-4c0d-93f2-cb2e319e0c19",
+        "order": {
+            "n_objects": 6,
+            "volume": 25.4810149519567,
+            "weight": 5.713593594843136
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 365851019849,
+        "location": {
+            "address": NaN,
+            "lat": 40.3527155,
+            "lon": -3.6091146
+        },
+        "order_id": "73803212-7c86-48cb-ae1c-f04b35dd2af2",
+        "order": {
+            "n_objects": 9,
+            "volume": 56.68811506540811,
+            "weight": 8.218934204323395
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 61820245933,
+        "location": {
+            "address": "M-50",
+            "lat": 40.34882887532732,
+            "lon": -3.581481252872211
+        },
+        "order_id": "c55cd310-09e1-4ab7-96c8-1fb218428f5a",
+        "order": {
+            "n_objects": 2,
+            "volume": 38.90307131189151,
+            "weight": 47.81350560553569
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 301686443356,
+        "location": {
+            "address": "Carretera de acceso al Parque Tecnol\u00f3gico de Valdeming\u00f3mez",
+            "lat": 40.3323402,
+            "lon": -3.588817997508017
+        },
+        "order_id": "ac9a7dd7-eee8-4465-a58e-667e3dfa8464",
+        "order": {
+            "n_objects": 6,
+            "volume": 4.518463299872986,
+            "weight": 38.8517251020982
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 406285547243,
+        "location": {
+            "address": "Calle de San Norberto",
+            "lat": 40.33970655573496,
+            "lon": -3.70207068321339
+        },
+        "order_id": "2926cd0a-733c-4f0a-9811-9958b2308c39",
+        "order": {
+            "n_objects": 2,
+            "volume": 12.50267437831596,
+            "weight": 38.44084455128594
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 685893074592,
+        "location": {
+            "address": "Calle Caballero de la Cruz",
+            "lat": 40.3337375,
+            "lon": -3.69110545
+        },
+        "order_id": "d65b8545-b680-4715-8f33-860106b38be7",
+        "order": {
+            "n_objects": 2,
+            "volume": 9.776900371401098,
+            "weight": 41.61646846301589
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 750410191175,
+        "location": {
+            "address": "Calle Selma Lagerl\u00f6f",
+            "lat": 40.327209657377296,
+            "lon": -3.666319890442794
+        },
+        "order_id": "db62593b-aad8-4fea-b4fd-0933882aa582",
+        "order": {
+            "n_objects": 5,
+            "volume": 96.5925673697812,
+            "weight": 10.934871948978216
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 68683160543,
+        "location": {
+            "address": NaN,
+            "lat": 40.3468833,
+            "lon": -3.6706403
+        },
+        "order_id": "e106b91f-6a0f-40b8-a4c8-ead7fabe9ddb",
+        "order": {
+            "n_objects": 9,
+            "volume": 20.477109178849396,
+            "weight": 32.38024745227906
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 509570118667,
+        "location": {
+            "address": NaN,
+            "lat": 40.333153675190694,
+            "lon": -3.689169746290145
+        },
+        "order_id": "db0ce6bc-b920-481e-9972-1f94723cdb51",
+        "order": {
+            "n_objects": 7,
+            "volume": 5.53144891667667,
+            "weight": 6.7917377792531965
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 207068695305,
+        "location": {
+            "address": "Calle San Mam\u00e9s",
+            "lat": 40.33697986068148,
+            "lon": -3.71678746041736
+        },
+        "order_id": "e22c8bf2-630e-4a7e-b38d-b4f887a60dc0",
+        "order": {
+            "n_objects": 8,
+            "volume": 76.5792564645072,
+            "weight": 21.703683102207727
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 560345395675,
+        "location": {
+            "address": "Paseo de los Ferroviarios",
+            "lat": 40.34636365,
+            "lon": -3.7173982542488577
+        },
+        "order_id": "4d546f5e-8873-492b-add8-96ef9a1a573f",
+        "order": {
+            "n_objects": 8,
+            "volume": 83.79829174859267,
+            "weight": 17.94614184542183
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 511153893991,
+        "location": {
+            "address": "Calle Estrategia",
+            "lat": 40.32117725272103,
+            "lon": -3.6905317150892976
+        },
+        "order_id": "30ad68dd-4dd7-4d92-8c95-ef782728892b",
+        "order": {
+            "n_objects": 3,
+            "volume": 16.907755278928512,
+            "weight": 14.905263569323727
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 55223166245,
+        "location": {
+            "address": "M-301",
+            "lat": 40.3275663,
+            "lon": -3.6699119
+        },
+        "order_id": "1c511eb7-07f9-46b1-819b-ef0ce7072414",
+        "order": {
+            "n_objects": 4,
+            "volume": 81.81695169225875,
+            "weight": 11.855397035770137
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 817424722164,
+        "location": {
+            "address": "Calle La Austriada",
+            "lat": 40.32177957133937,
+            "lon": -3.707617143543264
+        },
+        "order_id": "25d21a07-000c-4b4b-b548-a13e2cfb3605",
+        "order": {
+            "n_objects": 8,
+            "volume": 53.39844638533147,
+            "weight": 8.109426607368357
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 542832075610,
+        "location": {
+            "address": "Calle de Pan y Toros",
+            "lat": 40.3571046,
+            "lon": -3.6949534971080182
+        },
+        "order_id": "2942d9b8-06df-46ab-b279-c0b68d3b8e91",
+        "order": {
+            "n_objects": 6,
+            "volume": 41.52218373521287,
+            "weight": 36.98306514076329
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 169790907653,
+        "location": {
+            "address": "Autov\u00eda de Toledo",
+            "lat": 40.337067231138654,
+            "lon": -3.724435968719443
+        },
+        "order_id": "10a8c407-6ac9-4292-a91d-f39d212968be",
+        "order": {
+            "n_objects": 1,
+            "volume": 5.8165372069843,
+            "weight": 38.60367945558783
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 87771283068,
+        "location": {
+            "address": "M-45",
+            "lat": 40.33712930821499,
+            "lon": -3.664494543389693
+        },
+        "order_id": "cf916bb2-e2d4-45d6-bf4c-6f9133db78b8",
+        "order": {
+            "n_objects": 2,
+            "volume": 61.265217365898714,
+            "weight": 44.592145617479446
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 645444643858,
+        "location": {
+            "address": "Calle de Eduardo Barreiros",
+            "lat": 40.357942300000005,
+            "lon": -3.704837342793879
+        },
+        "order_id": "2348d24a-8619-416b-9d73-dec4ed890af0",
+        "order": {
+            "n_objects": 3,
+            "volume": 59.27801243700537,
+            "weight": 31.7443006689414
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 561145096386,
+        "location": {
+            "address": "Calle de La Acebeda",
+            "lat": 40.3363424581843,
+            "lon": -3.720375455764074
+        },
+        "order_id": "1c027ce4-eb23-4161-be31-c9f840fe2e74",
+        "order": {
+            "n_objects": 4,
+            "volume": 64.85812005048028,
+            "weight": 37.83062369286442
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 230853390072,
+        "location": {
+            "address": "Avenida de los Rosales131",
+            "lat": 40.3521017,
+            "lon": -3.6772649205334975
+        },
+        "order_id": "e1c9dd0c-f0be-47b8-8a7e-6e579a0109aa",
+        "order": {
+            "n_objects": 3,
+            "volume": 17.843787613902403,
+            "weight": 30.76036901260729
+        },
+        "status": "active"
+    },
+    {
+        "client_id": 224916980991,
+        "location": {
+            "address": "Autov\u00eda del Sur",
+            "lat": 40.327898479451065,
+            "lon": -3.6890047760958207
+        },
+        "order_id": "b0d42197-d4fb-49bd-abe1-96714c97571a",
+        "order": {
+            "n_objects": 7,
+            "volume": 57.70013072807219,
+            "weight": 26.170178917581378
+        },
+        "status": "active"
+    }
+]
