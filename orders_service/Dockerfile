@@ -1,6 +1,16 @@
 # Use an official Python runtime as a parent image
 FROM python:3.10-buster
 
+# Define a build argument
+ARG AWS_ACCESS_KEY_ID
+ARG AWS_SECRET_ACCESS_KEY
+ARG AWS_SESSION_TOKEN
+
+# Set the environment variable
+ENV AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+ENV AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+ENV AWS_SESSION_TOKEN=${AWS_SESSION_TOKEN}
+
 # Install AWS CLI
 RUN apt-get update && \
     apt-get install -y unzip groff mandoc && \

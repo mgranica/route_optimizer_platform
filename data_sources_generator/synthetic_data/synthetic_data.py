@@ -1,4 +1,5 @@
 from faker import Faker
+from typing import Dict
 import random
 import json
 import pandas as pd
@@ -8,39 +9,49 @@ from shapely.geometry import Point, Polygon
 from geopy.geocoders import Nominatim
 import argparse
 import os
+import uuid
 
 
 ROOT_PATH = os.path.dirname(__file__)
 STATIC_DATA = "static_data"
 POPULATION = "city_population.json"
 RESULTS = "results"
-CLIENT_DATA = "client_data.json"
+CLIENT = "client_data.json"
+ADDRESS = "address_data.json"
 SHAPE_FILE = "Distritos.shp"
 
-class ClientDataGenerator:
-    def __init__(self, filename, city, output):
-        self.fake = Faker('es_ES')
-        self.city = city
-        self.city_data = self.load_static_data(filename)
-        self.output = output
 
-    def load_static_data(self, filename):
-        with open(filename, 'r') as file:
-            static_data = json.load(file)
-        return self.weight_population(static_data[self.city])
+class GeneratorMixIn:
     
-    def weight_population(self, city_data):
-        total_population = sum(city_data["population"].values())
-        city_data["population"] = {
-            key:value/total_population for key, value in city_data["population"].items()
-        }
-        return city_data
+    @staticmethod
+    def generate_id() -> str:
+        """
+        Generate a unique ID.
 
-    def generate_neighborhood(self):
-        neighborhood_data = self.city_data.get("population", {})
-        # Sample a neighborhood based on the probability distribution
-        neighborhood = random.choices(list(neighborhood_data.keys()), weights=list(neighborhood_data.values()))[0]
-        return neighborhood
+        :return: A unique ID string prefixed with 'cus-'.
+        """
+        return f"cus-{str(uuid.uuid4())}"
+    
+    def save_dict(self, filepath: str, data: Dict) -> None:
+        """
+        Save a dictionary to a JSON file specified by the output path.
+
+        :param filename: Path to the output file where the dictionary will be saved.
+        :param data: The dictionary to save.
+        :raises IOError: If there is an error saving the file.
+        """
+        try:
+            with open(filepath, "w") as json_file:
+                json.dump(data, json_file, indent=4)
+            print(f"Dictionary saved to {filepath}")
+        except IOError as e:
+            print(f"Error occurred while saving dictionary: {e}")
+
+    
+
+class ClientDataGenerator(GeneratorMixIn):
+    def __init__(self,):
+        self.fake = Faker('es_ES')
     
     def generate_status(self):
         return random.choices(["active", "unactive", "suspended"], weights=[0.85, 0.1, 0.05])[0]
@@ -63,10 +74,10 @@ class ClientDataGenerator:
         elif gender == "Female":
             return self.fake.first_name_female()
 
-    def generate_client_data(self, num_clients):
-        clients = []
+    def generate_client_data(self, filename, num_clients):
+        client_list = []
         for _ in range(num_clients):
-            neighborhood = self.generate_neighborhood()
+            # neighborhood = self.generate_neighborhood()
             gender = self.generate_gender()
             first_name = self.generate_first_name(gender)
             last_name = self.fake.last_name()
@@ -74,7 +85,7 @@ class ClientDataGenerator:
             status = self.generate_status()
 
             client = {
-                'client_id': str(self.fake.random_number(digits=12)),
+                'client_id': self.generate_id(),
                 'first_name': first_name,
                 'last_name': last_name,
                 'email': email,
@@ -82,154 +93,104 @@ class ClientDataGenerator:
                 'date_of_birth': self.fake.date_of_birth(minimum_age=18, maximum_age=90).strftime("%Y-%m-%d"),
                 'gender': gender,
                 'occupation': self.fake.job(),
-                'neighborhood': neighborhood,
                 'created_at': self.fake.date_this_decade(before_today=True, after_today=False).strftime("%Y-%m-%d"),
                 'updated_at': self.fake.date_time_between(start_date='-1y', end_date='now').strftime("%Y-%m-%d"),
                 'status': status, 
             }
-            clients.append(client)
-        self.save_dict(clients)
-        return clients
-    
-    def save_dict(self, dict):
-        try:
-            # Save the dictionary as JSON
-            with open(self.output, "w") as json_file:
-                json.dump(dict, json_file)
-            print(f"Dictionary saved to {self.output}")
-        except IOError as e:
-            print(f"Error occurred while saving dictionary: {e}")
-                
+            client_list.append(client)
+        self.save_dict(filename, client_list)
+        return client_list
 
-class ClientDataReverseGeolocator:
-    def __init__(self, clients, shapefile, filename) -> None:
-        self.df_clients = pd.DataFrame(clients).sort_values(by="neighborhood", ignore_index=True)
+
+class AddressDataGenerator(GeneratorMixIn):
+    def __init__(self, clients, shapefile, city_population, city) -> None:
+        self.client = clients
+        self.num_addresses = 3
         self.df_district = self.load_shape_data(shapefile)
-        self.filename = filename
-        self.geolocator = Nominatim(user_agent="geo_reverse")       
-        
+        self.city_data = self.load_static_data(city_population, city)
+        self.client_id_list = self.generate_client_id_list()
+        self.geolocator = Nominatim(user_agent="geo_reverse")
+    
     def load_shape_data(self, shapefile, target_crs = "EPSG:4326"):
-        df = gpd.read_file(shapefile)
+        df = gpd.read_file(shapefile).set_index("NOMBRE")
         return df.to_crs(target_crs)
     
-    @staticmethod
-    def generate_points_within_polygon(polygon, num_points):
+    def load_static_data(self, filename, city):
+        with open(filename, 'r') as file:
+            city_population = json.load(file)
+        return self.weight_population(city_population[city])
+    
+    def weight_population(self, city_data):
+        total_population = sum(city_data["population"].values())
+        city_data["population"] = {
+            key:value/total_population for key, value in city_data["population"].items()
+        }
+        return city_data
+        
+    def generate_neighborhood(self):
+        neighborhood_data = self.city_data.get("population", {})
+        # Sample a neighborhood based on the probability distribution
+        neighborhood = random.choices(list(neighborhood_data.keys()), weights=list(neighborhood_data.values()))[0]
+        return neighborhood
+    
+    def generate_client_id_list(self):
+        return [
+            id 
+            for client in self.client 
+            for id in [client['client_id']] * (np.random.randint(self.num_addresses)+1)
+        ]
+    
+    def generate_points_within_polygon(self, neighborhood):
+        polygon = self.df_district.loc[neighborhood, "geometry"]
         minx, miny, maxx, maxy = polygon.bounds
-        points = []
-        while len(points) < num_points:
+        while True:
             x = np.random.uniform(minx, maxx)
             y = np.random.uniform(miny, maxy)
             point = Point(x, y)
             if polygon.contains(point):
-                points.append((y, x))
-        return points
-    
+                # return LAT &  LON
+                return y, x
+            
     def generate_address(self, point):
         # get address from coordinates
-        raw = self.geolocator.reverse(point, timeout=10).raw  # Reverse geocoding with latitude and longitude
+        raw = self.geolocator.reverse(point, timeout=3).raw  # Reverse geocoding with latitude and longitude
         address = raw["address"]
-        return (
-            address.get("road", ""), 
-            address.get("house_number", ""), 
-            address.get("suburb", ""),
-            address.get("city_district", ""),
-            address.get("state", ""), 
-            address.get("postcode", ""),
-            address.get("country", ""),
-            raw.get("lat", ""),
-            raw.get("lon", ""),
-        )
-    
-    def generate_weighted_dataframe(self):
-        self.df_weight = (
-            self.df_clients
-            .groupby("neighborhood", as_index=False)
-            .agg({"client_id": "count"})
-            .rename(columns={"neighborhood": "NOMBRE", "client_id": "num_clientes"})
-            .merge(self.df_district, on=["NOMBRE"])
-        )
-    
-    def generate_points_dataframe(self):
-        points_columns = [
-            "NOMBRE", "num_clientes", "COD_DIS_TX", "points", #"geometry",
-        ]
-        self.df_points =(
-            self.df_weight
-            .assign(
-                points= lambda df: df.apply(
-                    lambda x: self.generate_points_within_polygon(x["geometry"], x["num_clientes"]), axis=1
-                )
-            )
-            .explode("points")
-            .reset_index(drop=True)
-            [points_columns]
-        )
-        
-    def generate_address_dataframe(self):
-        address_columns = [
-            "road",  
-            "house_number",  
-            "suburb",
-            "city_district",
-            "state",  
-            "postcode", 
-            "country",
-            "lat",
-            "lon"
-        ]
+        return {
+            "road": address.get("road", ""), 
+            "house_number": address.get("house_number", ""), 
+            "suburb": address.get("suburb", ""),
+            "city_district": address.get("city_district", ""),
+            "state": address.get("state", ""), 
+            "postcode": address.get("postcode", ""),
+            "country": address.get("country", ""),
+            "lat": raw.get("lat", ""),
+            "lon": raw.get("lon", ""),
+        }
 
-        df_address = (
-            self.df_points
-            .apply(
-                lambda x: self.generate_address(x["points"]), axis=1, result_type="expand"
-            )
-            .set_axis(address_columns, axis=1)
-            .assign(
-                city_district = lambda df: df["city_district"].str.replace("-", " - "),
-                district_name = lambda df: np.where(
-                    df["city_district"] == "",
-                    df["suburb"],
-                    df["city_district"],
-                ),
-                address = lambda df: df["road"].astype(str) + df["house_number"]
-            )
-            .drop(columns=["suburb", "city_district", "road", "house_number"])
-        )
-        self.df_geolocation = pd.concat([self.df_points, df_address], axis=1)
     
-    def generate_client_geo_dataframe(self):
-        client_geolocation_columns = [
-            "client_id",
-            "first_name",
-            "last_name",
-            "email",
-            "phone_number",
-            "date_of_birth",
-            "gender",
-            "occupation",
-            "address",
-            "neighborhood",
-            "district_name",# to corroborate geolocation API functionality
-            "state",
-            "postcode",
-            "country",
-            "created_at",
-            "updated_at",
-            "status",
-            "points",
-            "lat",
-            "lon",   
-        ]
-        self.df_client_geolocation = pd.concat(
-            [self.df_clients, self.df_geolocation], axis=1
-        )[client_geolocation_columns]
-        self.df_client_geolocation.to_csv(self.filename, index=False)
-        
-    def generate_reverse_geo_dataframe(self):
-        self.generate_weighted_dataframe()
-        self.generate_points_dataframe()
-        self.generate_address_dataframe()
-        self.generate_client_geo_dataframe()
+    def generate_address_data(self, filename):
+        address_list = []
+        for client_id in self.client_id_list:
+            neighborhood = self.generate_neighborhood()
+            point = self.generate_points_within_polygon(neighborhood)
+            address = self.generate_address(point)
+            address_data = {
+                'client_id': client_id,
+                'address_id': self.generate_id(),
+                'neighborhood': neighborhood,
+                'coordinates': point,
+                "road": address.get("road"), 
+                "house_number": address.get("house_number"), 
+                "suburb": address.get("suburb"),
+                "city_district": address.get("city_district"),
+                "state": address.get("state"), 
+                "postcode": address.get("postcode"),
+                "country": address.get("country"),
+                "lat": address.get("lat"),
+                "lon": address.get("lon"),
+            }
+            address_list.append(address_data)
+        self.save_dict(filename, address_list)
 
 
 def main():
@@ -242,13 +203,13 @@ def main():
     
     city_population = os.path.join(ROOT_PATH, STATIC_DATA, POPULATION)
     shapefile = os.path.join(ROOT_PATH, STATIC_DATA, SHAPE_FILE)
-    client_data = os.path.join(ROOT_PATH, RESULTS, CLIENT_DATA)
-    filename = os.path.join(ROOT_PATH, RESULTS, args.filename)
+    client = os.path.join(ROOT_PATH, RESULTS, CLIENT)
+    address = os.path.join(ROOT_PATH, RESULTS, ADDRESS)
     
-    generator = ClientDataGenerator(city_population, args.city, client_data)
-    clients = generator.generate_client_data(args.num_clients)
-    geolocator = ClientDataReverseGeolocator(clients, shapefile, filename)
-    geolocator.generate_reverse_geo_dataframe()
+    client_generator = ClientDataGenerator()
+    clients = client_generator.generate_client_data(client, args.num_clients)
+    address_generator = AddressDataGenerator(clients, shapefile, city_population, args.city)
+    address_generator.generate_address_data(address)
 
 
 if __name__ == "__main__":
