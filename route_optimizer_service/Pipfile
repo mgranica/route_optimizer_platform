@@ -4,12 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-jupyter = "*"
-numpy = "*"
-pandas = "*"
-urllib3 = "*"
-polyline = "*"
-ipykernel = "*"
 
 [dev-packages]
 
